@@ -1,0 +1,66 @@
+[
+    {
+        "id":"1",
+        "title":"Vivo Z1 Pro",
+        "src":"./mobiles/mob1.jpeg",
+        "price": "14,990",
+        "discription": "16MP+8MP+2MP|32MP",
+        "to": "Mobiles"  
+    },
+    {
+        "id":"2",
+        "title":"Oppo A5s",
+        "src":"./mobiles/oppo-a5s.jpeg",
+        "price": "11,990",
+        "discription": "6.22 inch HD+ Display",
+        "to": "Mobiles"   
+    },
+    {
+        "id":"3",
+        "title":"Realme 3",
+        "src":"./mobiles/realme-3.jpeg",
+        "price": "8,999",
+        "discription": "6.22 inch HD+ Display",
+        "to": "Mobiles"   
+    },
+    {
+        "id":"4",
+        "title":"Realme-c2(Black)",
+        "src":"./mobiles/realme-c2.jpeg",
+        "price": "8,999",
+        "discription": "6.1 HD+ Display",
+        "to": "Mobiles"   
+    },
+    {
+        "id":"5",
+        "title":"Redmi Note 7 Pro ",
+        "src":"./mobiles/redmi note 7 pro.jpeg",
+        "price": "13,999",
+        "discription": "48MP+5MP|13MP Camera",
+        "to": "Mobiles"   
+    },
+    {
+        "id":"6",
+        "title":"Redmi Note 7s",
+        "src":"./mobiles/redmi-note-7s.jpeg",
+        "price": "10,999",
+        "discription": "6.3 FHD+Display",
+        "to": "Mobiles"   
+    },
+    {
+        "id":"7",
+        "title":"Samsung A50",
+        "src":"./mobiles/samsung-galaxy-a50.jpeg",
+        "price": "19,990",
+        "discription": "6.4 FHD+Display",
+        "to": "Mobiles"   
+    },
+    {
+        "id":"8",
+        "title":"Samsung A10 Series",
+        "src":"./mobiles/samsung-galaxy-s10.jpeg",
+        "price": "55,900",
+        "discription": "Infinity-O Display",
+        "to": "Mobiles"   
+    }
+]

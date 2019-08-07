@@ -1,24 +1,23 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import "slick-carousel/slick/slick.css"; 
+import "slick-carousel/slick/slick-theme.css";
+import './App.scss'
+import { BrowserRouter as Router } from 'react-router-dom'
+import Toolbar from './common-components/Navbar/Toolbar';
+import Contents from './common-components/Contents-bar/Contents';
+import Main from './home/Routes/Main';
+import Footer from './common-components/Footer/Footer';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Router>
+        <Toolbar className="col-12" />
+        <Contents />
+        <Main />
+        <Footer />
+     </Router>
     </div>
   );
 }

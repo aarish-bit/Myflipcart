@@ -1,0 +1,49 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  background-color: #172237;
+  margin-top: 55px;
+
+  .footer-contents {
+    width: 92%;
+    font-size: 11px;
+    margin-left: 45px;
+    margin-top: 45px;
+  }
+
+  span {
+    display: flex;
+    flex-direction: column;
+    line-height: 2;
+    h6 {
+      color: #727477;
+      font-size: 12px;
+    }
+    a{
+      color: white
+    }
+    p{
+      color: white;
+    }
+  }
+  
+  .mail{border-left: 1px solid #727477}
+}
+
+.contents-2 {
+  display: flex;
+  margin-top: 20px;
+  border-top: 1px solid #727477;
+
+  a{
+    flex: 0.2;
+    color: white;
+    margin-left: 50px;
+    margin-top: 10px;
+  }
+
+  p{
+    color: white;
+    margin-top: 10px;
+  }
+}

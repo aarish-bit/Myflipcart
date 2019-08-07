@@ -1,0 +1,225 @@
+.dealsoftheday {
+  background-color: white;
+  margin-top: 15px;
+  margin-left: 32px;
+  width: 75%;
+  border-top: 1px solid #e0e0e0;
+}
+
+.dod-heading {
+  display: flex;
+  align-items: baseline;
+
+  h4 {
+    margin-top: 13px;
+    margin-left: 18px;
+    font-size: 23px;
+  }
+
+  .timer {
+    display: flex;
+    align-items: baseline;
+    margin-left: 20px;
+    color: #8A8A8A;
+    font-weight: initial;
+    font-size: 19px;
+
+    i {
+      padding-right: 10px;
+    }
+  }
+}
+
+.view-all {
+  background-color: #2874F0;
+  margin-left: 446px;
+  padding: 8px;
+  border-radius: 4px;
+
+  a {
+    color: white;
+    text-decoration: none;
+  }
+}
+
+.GadjetAdd {
+  margin-left: 10px;
+  margin-top: 15px;
+
+  img {
+    width: 253px;
+    height: 354px;
+    border: 5px solid white;
+  }
+}
+
+.slick-slider {
+  display: flex;
+  margin-top: 15px;
+  background-color: white;
+  width: 100%;
+  align-items: center;
+
+  .slick-list {
+    width: 100%;
+  }
+}
+
+.dod-data {
+  min-width: 185px;
+  max-width: 300px;
+  text-align: center;
+
+  img {
+    width: 104px;
+    height: 125px;
+    margin-top: 15px;
+    margin-left: 60px;
+  }
+
+  .data-title {
+    font-size: 15px;
+    margin-top: 20px;
+  }
+
+  .price {
+    font-size: 15px;
+    color: green;
+  }
+
+  .brands {
+    font-size: 14px;
+    color: #8A8A8A;
+  }
+}
+
+.adds {
+  display: flex;
+  margin-top: 15px;
+  margin-left: 5px;
+
+  img {
+    width: 412px;
+    height: 235px;
+    margin-left: 10px;
+  }
+}
+
+.Mobile-new-launches {
+  background-color: white;
+  margin-top: 15px;
+  margin-left: 15px;
+  width: 97%;
+  border-top: 1px solid #e0e0e0;
+}
+
+.mobile-heading {
+  display: flex;
+  align-items: baseline;
+
+  h4 {
+    margin-top: 13px;
+    margin-left: 18px;
+    width: 250px;
+  }
+}
+
+.mobile-view-all {
+  background-color: #2874F0;
+  margin-left: 875px;
+  padding: 8px;
+  border-radius: 4px;
+
+  a {
+    color: white;
+    text-decoration: none;
+  }
+}
+
+.mobile-data {
+	min-width: 185px;
+  max-width: 300px;
+  text-align: center;
+	// overflow-x: hidden;
+
+	img {
+		width: 55px;
+		height: 100px;
+    margin-top: 15px;
+    margin-left: 73px;
+	}
+
+	.data-title {
+		font-size: 15px;
+		margin-top: 20px;
+	}
+
+	.price {
+    color: #8A8A8A;
+    font-size: 14px;
+	}
+
+	.disc {
+    color: green;
+		font-size: 16px;
+	}
+}
+
+.tshirts-new {
+  background-color: white;
+  margin-top: 15px;
+  margin-left: 15px;
+  width: 97%;
+  border-top: 1px solid #e0e0e0;
+}
+
+.tshirts-heading {
+  display: flex;
+  align-items: baseline;
+
+  h4 {
+    margin-top: 13px;
+    margin-left: 18px;
+  }
+}
+
+.tshirts-view-all {
+  background-color: #2874F0;
+  margin-left: 855px;
+  padding: 8px;
+  border-radius: 4px;
+
+  a {
+    color: white;
+    text-decoration: none;
+  }
+}
+
+.tshirt-data {
+	min-width: 185px;
+  max-width: 300px;
+  text-align: center;
+	// overflow-x: hidden;
+
+	img {
+    width: 95px;
+    height: 145px;
+    margin-top: 15px;
+    margin-left: 105px;
+	}
+
+	.data-title {
+		font-size: 15px;
+    color: green;    
+	}
+
+	.price {
+    color: #8A8A8A;
+    font-size: 15px;
+	}
+
+	.style {
+    margin-top: 20px;
+		font-size: 16px;
+	}
+}

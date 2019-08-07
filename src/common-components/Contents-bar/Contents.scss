@@ -1,0 +1,79 @@
+.contents-menu {
+    background-color: white;
+    height: 50px;
+    
+    .dropdown {
+        float: left;
+        overflow: hidden;
+        margin-left: 27px;
+    }
+
+    .dropdown .dropbtn {
+        font-size: 14px;
+        border: none;
+        outline: none;
+        color: black;
+        background-color: white;
+        font-family: inherit;
+        cursor: pointer;
+        &:hover{ color: #2874F0;}
+        i {
+            margin-left: 7px;
+            font-size: 9px;
+        }
+    }
+}
+
+
+.dropdown-contents {
+    display: none;
+    position: fixed;
+    background-color: white;
+    z-index: 1000;
+    left: 15px;
+    top: 100px;
+    width: 98%;
+    a {
+        float: none;
+        color: #666666;
+        padding: 6px 54px;
+        line-height: 27px;
+        text-decoration: none;
+    }
+    label {
+        font-size: 12px;
+        display: contents;
+    }
+    i {
+        color: #2874F0
+    }
+}
+
+.dropdown:hover .dropdown-contents {
+    display: flex;
+    flex-direction: row;
+}
+
+.dropdown:hover .fa-chevron-down {
+    transform: rotate(180deg)
+}
+
+.Offer {
+    font-size: 14px;
+    border: none;
+    outline: none;
+    color: black;
+    padding: 14px 16px;
+    background-color: white;
+    font-family: inherit;
+    font-weight: 500;
+    a {
+        text-decoration: none;
+        color: black;
+        &:hover{ color: #2874F0;}
+    }
+    label{
+        margin-left: 25px;
+        cursor: pointer;
+    }
+}

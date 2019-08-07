@@ -1,0 +1,17 @@
+[
+    {
+        "id":"1",
+        "src":"./adds/add2.jpg",
+        "to": "https://www.flipkart.com/month-end-mobiles-fest-4h0d-store?otracker=hp_banner_1_5.bannerX3.BANNER_VFE8759Z1LUZ&fm=neo%2Fmerchandising&iid=M_679ee374-e942-4527-b3f4-449a62af07c5_5.VFE8759Z1LUZ"  
+    },
+    {
+        "id":"2",
+        "src":"./adds/add3.png",
+        "to": "https://www.flipkart.com/fashion-mm-summer-2019-store?otracker=hp_banner_2_5.bannerX3.BANNER_H40H3JPUY9MR&fm=neo%2Fmerchandising&iid=M_679ee374-e942-4527-b3f4-449a62af07c5_5.H40H3JPUY9MR"  
+    },
+    {
+        "id":"3",
+        "src":"./adds/add4.png",
+        "to": "https://www.flipkart.com/television-store?otracker=hp_banner_3_5.bannerX3.BANNER_6FPG63XJFUIV&fm=neo%2Fmerchandising&iid=M_c4f817e9-bc04-4e2c-930e-e83ffe0e49c8_5.6FPG63XJFUIV&ppt=hp&ppn=hp"  
+    }
+]

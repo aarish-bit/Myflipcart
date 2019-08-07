@@ -1,0 +1,2601 @@
+ 
+    {
+        "navData": {
+            "electronics": {
+                "title": "Electronics",
+                "url": "#",
+                "importantLinks": [
+
+                ],
+                "tabs": [
+                    {
+                        "title": "Categories",
+                        "columns": [
+                            [
+                                {
+                                    "title": "Mobiles",
+                                    "url": "/mobile-phones-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Mi",
+                                    "url": "/mobiles/mi~brand/pr?sid=tyy,4io"
+                                },
+                                {
+                                    "title": "Realme",
+                                    "url": "/mobiles/pr?sid=tyy%2C4io&p%5B%5D=facets.brand%255B%255D%3DRealme"
+                                },
+                                {
+                                    "title": "Samsung",
+                                    "url": "/samsung-mobile-store"
+                                },
+                                {
+                                    "title": "Infinix",
+                                    "url": "/mobiles/pr?sid=tyy%2C4io&otracker=categorytree&p%5B%5D=facets.brand%255B%255D%3DInfinix"
+                                },
+                                {
+                                    "title": "OPPO",
+                                    "url": "/oppo-mobile-phones-store"
+                                },
+                                {
+                                    "title": "Apple",
+                                    "url": "/apple-products-store"
+                                },
+                                {
+                                    "title": "Vivo",
+                                    "url": "/mobiles/pr?sid=tyy%2C4io&p%5B%5D=facets.serviceability%5B%5D%3Dfalse&p%5B%5D=facets.brand%255B%255D%3DVivo"
+                                },
+                                {
+                                    "title": "Honor",
+                                    "url": "/search?p[]=facets.brand%255B%255D%3DHonor&sid=tyy%2F4io&otracker=CLP_filters"
+                                },
+                                {
+                                    "title": "Asus",
+                                    "url": "/mobiles/pr?sid=tyy%2C4io&p%5B%5D=facets.brand%255B%255D%3DAsus"
+                                },
+                                {
+                                    "title": "Pixel 3a | 3a XL",
+                                    "url": "/mobiles/~pixel-3a-series/pr?sid=tyy%2C4io"
+                                },
+                                {
+                                    "title": "Redmi K20 | K20 Pro",
+                                    "url": "/mobiles/~cs-u369u3adcv/pr?sid=tyy%2C4io"
+                                },
+                                {
+                                    "title": "Realme X",
+                                    "url": "/mobiles/~cs-axw3ei2ufh/pr?sid=tyy%2C4io"
+                                },
+                                {
+                                    "title": "Redmi 7A",
+                                    "url": "/mobiles/~cs-iwmqh0q1cp/pr?sid=tyy%2C4io"
+                                },
+                                {
+                                    "title": "Vivo Z1Pro",
+                                    "url": "/tyy/4io/~cs-fz8is2wkwi/pr?sid=tyy,4io"
+                                },
+                                {
+                                    "title": "Realme 3i",
+                                    "url": "/mobiles/~cs-b9b0pnrije/pr?sid=tyy%2C4io"
+                                },
+                                {
+                                    "title": "OPPO Reno",
+                                    "url": "/mobiles/~cs-qpzy368dap/pr?sid=tyy%2C4io"
+                                },
+                                {
+                                    "title": "Red Magic 3",
+                                    "url": "/mobiles/~cs-lil09rfm12/pr?sid=tyy%2C4io"
+                                }
+                            ],
+                            [
+                                {
+                                    "title": "Mobile Accessories",
+                                    "url": "/mobile-accessories/pr?sid=tyy,4mr",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Mobile Cases",
+                                    "url": "/mobile-accessories/cases-and-covers/pr?sid=tyy,4mr,q2u"
+                                },
+                                {
+                                    "title": "Headphones & Headsets",
+                                    "url": "/headphones-store"
+                                },
+                                {
+                                    "title": "Power Banks",
+                                    "url": "/mobile-accessories/power-banks/pr?sid=tyy,4mr,fu6&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Screenguards",
+                                    "url": "/mobile-accessories/screen-guards/pr?sid=tyy,4mr,lrv"
+                                },
+                                {
+                                    "title": "Memory Cards",
+                                    "url": "/mobile-accessories/memory-cards-readers/memory-cards/pr?sid=tyy,4mr,zzf,7y7"
+                                },
+                                {
+                                    "title": "Smart Headphones",
+                                    "url": "/wearable-smart-devices/smart-headphones/pr?sid=ajy,vam"
+                                },
+                                {
+                                    "title": "Mobile Cables",
+                                    "url": "/mobile-accessories/cables/pr?sid=tyy,4mr,3nu"
+                                },
+                                {
+                                    "title": "Mobile Chargers",
+                                    "url": "/mobile-accessories/chargers/pr?sid=tyy,4mr,tp2"
+                                },
+                                {
+                                    "title": "Mobile Holders",
+                                    "url": "/mobile-accessories/mobile-holders/pr?sid=tyy,4mr,vnf&marketplace=FLIPKART"
+                                },
+                                {
+                                    "title": "Smart Wearable Tech",
+                                    "url": "/smart-wearables-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Smart Watches",
+                                    "url": "/smartwatches-store"
+                                },
+                                {
+                                    "title": "Smart Glasses (VR)",
+                                    "url": "/wearable-smart-devices/smart-glasses/pr?sid=ajy%2Ctcy"
+                                },
+                                {
+                                    "title": "Smart Bands",
+                                    "url": "/wearable-smart-devices/smart-bands/pr?sid=ajy%2Cq7p"
+                                },
+                                {
+                                    "title": "Health Care Appliances",
+                                    "url": "/health-and-appliances-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Bp Monitors",
+                                    "url": "/health-personal-care-appliances/health-care/health-care-devices/blood-pressure-monitors/pr?sid=zlw,nyl,bvv,kbk"
+                                },
+                                {
+                                    "title": "Weighing Scale",
+                                    "url": "/beauty-and-personal-care/health-care/health-care-devices/weighing-scales/pr?sid=t06,nyl,bvv,o4o"
+                                }
+                            ],
+                            [
+                                {
+                                    "title": "Laptops",
+                                    "url": "/laptops-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Gaming Laptops",
+                                    "url": "/gaming-laptops-store?otracker=nmenu_sub_Electronics_0_Gaming%20Laptops"
+                                },
+                                {
+                                    "title": "Desktop PCs",
+                                    "url": "/desktop-pc-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Gaming & Accessories",
+                                    "url": "/gaming-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Computer Accessories",
+                                    "url": "/computer-accessories-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "External Hard Disks",
+                                    "url": "/external-hard-disk-store"
+                                },
+                                {
+                                    "title": "Pendrives",
+                                    "url": "/computers/storage/pen-drives/pr?sid=6bo,jdy,uar"
+                                },
+                                {
+                                    "title": "Laptop Skins & Decals",
+                                    "url": "/laptop-accessories/laptop-skins-decals/pr?sid=6bo,ai3,zvm"
+                                },
+                                {
+                                    "title": "Laptop Bags",
+                                    "url": "/laptop-accessories/laptop-bags/pr?sid=6bo%2Cai3%2Cqq9"
+                                },
+                                {
+                                    "title": "Mouse",
+                                    "url": "/laptop-accessories/mouse/pr?sid=6bo,ai3,2ay"
+                                },
+                                {
+                                    "title": "Computer Peripherals",
+                                    "url": "/peripherals-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Printers & Ink Cartridges",
+                                    "url": "/printer-inks-store"
+                                },
+                                {
+                                    "title": "Monitors",
+                                    "url": "/monitors-store"
+                                },
+                                {
+                                    "title": "Tablets",
+                                    "url": "/tablets-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Apple iPads",
+                                    "url": "/tablets/~apple-ipads/pr?sid=tyy,hry"
+                                }
+                            ],
+                            [
+                                {
+                                    "title": "Televisions",
+                                    "url": "/television-store"
+                                },
+                                {
+                                    "title": "Speakers",
+                                    "url": "/audio-video/speakers/pr?sid=0pm%2C0o7&p%5B%5D=facets.fulfilled_by%255B%255D%3DFlipkart%2BAssured&otracker=categorytree&p%5B%5D=facets.serviceability%5B%5D%3Dtrue&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Home Audio Speakers",
+                                    "url": "/audio-video/speakers/pr?count=40&otracker=categorytree&p%5B%5D=facets.type%255B%255D%3DHome%2BAudio%2BSpeaker&p%5B%5D=facets.type%255B%255D%3DLaptop%252FDesktop%2BSpeaker&p%5B%5D=facets.type%255B%255D%3DSoundbar&sid=0pm%2F0o7"
+                                },
+                                {
+                                    "title": "Home Theatres",
+                                    "url": "/home-entertainment/video-players-accessories/home-theaters/pr?sid=ckf%2Csee%2Cmi3"
+                                },
+                                {
+                                    "title": "Soundbars",
+                                    "url": "/audio-video/speakers/pr?sid=0pm%2C0o7&p%5B%5D=facets.type%255B%255D%3DSoundbar&otracker=categorytree&p%5B%5D=facets.serviceability%5B%5D%3Dtrue&p%5B%5D=facets.fulfilled_by%255B%255D%3DFlipkart%2BAssured"
+                                },
+                                {
+                                    "title": "Bluetooth Speakers",
+                                    "url": "/audio-video/speakers/pr?sid=0pm%2C0o7&otracker=categorytree&p%5B%5D=facets.features%255B%255D%3DBluetooth"
+                                },
+                                {
+                                    "title": "DTH Set Top Box",
+                                    "url": "/home-entertainment/dth/pr?count=40&otracker=categorytree&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock&sid=ckf%2F9wn"
+                                },
+                                {
+                                    "title": "Smart Home Automation",
+                                    "url": "/smart-home-automation-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Google Home",
+                                    "url": "/google-home-mini-launch-store"
+                                },
+                                {
+                                    "title": "Camera",
+                                    "url": "/camera-clp-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "DSLR & Mirrorless",
+                                    "url": "/cameras/dslr~type/pr?sid=jek%2Cp31"
+                                },
+                                {
+                                    "title": "Compact & Bridge Cameras",
+                                    "url": "/cameras/point-shoot~type/pr?sid=jek%2Cp31"
+                                },
+                                {
+                                    "title": "Sports & Action",
+                                    "url": "/cameras/sports-action/pr?count=40&sid=jek%2Fp31%2Fs3q"
+                                },
+                                {
+                                    "title": "Camera Accessories",
+                                    "url": "/cameras-accessories-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Lens",
+                                    "url": "/camera-accessories/camera-lenses/pr?uniqueBstoreparam1=val1&sid=jek%2C6l2%2Ce9y"
+                                },
+                                {
+                                    "title": "Tripods",
+                                    "url": "/camera-accessories/tripods/pr?count=40&otracker=categorytree&p%5B%5D=sort%3Dpopularity&sid=jek%2F6l2%2Fce6"
+                                },
+                                {
+                                    "title": "Network Components",
+                                    "url": "/computers/network-components/pr?sid=6bo,70k&otracker=categorytree",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Routers",
+                                    "url": "/computers/network-components/routers/pr?sid=6bo%2F70k%2F2a2"
+                                }
+                            ],
+                            [
+                                {
+                                    "title": "Featured",
+                                    "url": "",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Laptops on Buyback Guarantee",
+                                    "url": "/laptops/~buyback-guarantee-on-laptops-/pr?sid=6bo%2Cb5g"
+                                },
+                                {
+                                    "title": "Flipkart SmartBuy",
+                                    "url": "/flipkart-smartbuy-store"
+                                },
+                                {
+                                    "title": "Li-Polymer Power Banks",
+                                    "url": "/lithium-polymer-power-banks-store"
+                                },
+                                {
+                                    "title": "Sony PS4 Pro & Slim",
+                                    "url": "/games/~sony-play-station/pr?facets.availability=Exclude%20Out%20of%20Stock&sid=4rr%2Ctg9&p%5B%5D=facets.filter_standard%255B%255D%3D1&facets.availability[]=Exclude+Out+of+Stock"
+                                },
+                                {
+                                    "title": "Apple Products",
+                                    "url": "/apple-products-store"
+                                },
+                                {
+                                    "title": "Microsoft Store",
+                                    "url": "/microsoft-store"
+                                },
+                                {
+                                    "title": "Lenovo Phab Series",
+                                    "url": "/mobiles-accessories/~lenovo-phab-series1/pr?sid=tyy"
+                                },
+                                {
+                                    "title": "JBL Speakers",
+                                    "url": "/all/audio-video/jbl~brand/pr?otracker=categorytree&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock&p%5B%5D=facets.brand%255B%255D%3DJBL&sid=all%2F0pm"
+                                },
+                                {
+                                    "title": "Smartphones On Buyback Guarantee",
+                                    "url": "/buyback-guarantee-store"
+                                },
+                                {
+                                    "title": "Philips",
+                                    "url": "/health-personal-care-appliances/pr?count=40&otracker=categorytree&p%5B%5D=facets.brand%255B%255D%3DPhilips&p%5B%5D=facets.fulfilled_by%255B%255D%3DFlipkart%2BAssured&sid=zlw"
+                                },
+                                {
+                                    "title": "Dr. Morepen",
+                                    "url": "/search?as=off&as-show=on&count=40&otracker=start&p%5B%5D=facets.brand%255B%255D%3DDr.%2BMorepen&q=bp+monitor&sid=zlw"
+                                },
+                                {
+                                    "title": "Complete Mobile Protection",
+                                    "url": "/mobile-complete-protection-bbd-store"
+                                },
+                                {
+                                    "title": "Mobiles No Cost EMI",
+                                    "url": "/no-cost-emi-mobiles-store"
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "appliances": {
+                "title": "TVs & Appliances",
+                "url": "#",
+                "importantLinks": [
+
+                ],
+                "tabs": [
+                    {
+                        "title": "Categories",
+                        "columns": [
+                            [
+                                {
+                                    "title": "Television",
+                                    "url": "/television-store?otracker=nmenu_sub_TVs%20and%20Appliances_0_Televisions",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Android TVs",
+                                    "url": "/televisions/pr?sid=ckf%2Cczl&otracker=categorytree&p%5B%5D=facets.operating_system%255B%255D%3DOfficial%2BAndroid&p%5B%5D=facets.operating_system%255B%255D%3DAndroid&p%5B%5D=facets.serviceability%5B%5D%3Dtrue",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Smart & Ultra HD",
+                                    "url": "/search?count=40&otracker=CLP_filters&p%5B%5D=facets.smart_tv%255B%255D%3DYes&p%5B%5D=facets.resolution%255B%255D%3DUltra%2BHD%2B%25284K%2529&sid=ckf%2Fczl&otracker=nmenu_sub_TVs%20and%20Appliances_0_Smart%20and%20Ultra%20HD",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Top Brands",
+                                    "url": "",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Mi",
+                                    "url": "/televisions/pr?sid=ckf%2Cczl&p%5B%5D=facets.brand%255B%255D%3DMi&otracker=categorytree&p%5B%5D=facets.serviceability%5B%5D%3Dtrue&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock"
+                                },
+                                {
+                                    "title": "Vu",
+                                    "url": "/televisions/pr?sid=ckf%2Cczl&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock&otracker=categorytree&p%5B%5D=facets.serviceability%5B%5D%3Dtrue&p%5B%5D=facets.brand%255B%255D%3DVu"
+                                },
+                                {
+                                    "title": "Thomson",
+                                    "url": "/televisions/pr?sid=ckf%2Cczl&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock&otracker=categorytree&p%5B%5D=facets.serviceability%5B%5D%3Dtrue&p%5B%5D=facets.brand%255B%255D%3DThomson"
+                                },
+                                {
+                                    "title": "Samsung",
+                                    "url": "/televisions/pr?sid=ckf%2Cczl&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock&otracker=categorytree&p%5B%5D=facets.serviceability%5B%5D%3Dtrue&p%5B%5D=facets.brand%255B%255D%3DSamsung"
+                                },
+                                {
+                                    "title": "iFFALCON by TCL",
+                                    "url": "/televisions/pr?sid=ckf%2Cczl&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock&otracker=categorytree&p%5B%5D=facets.serviceability%5B%5D%3Dtrue&p%5B%5D=facets.brand%255B%255D%3DiFFALCON%2Bby%2BTCL"
+                                },
+                                {
+                                    "title": "MarQ by Flipkart",
+                                    "url": "/televisions/pr?sid=ckf%2Cczl&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock&otracker=categorytree&p%5B%5D=facets.serviceability%5B%5D%3Dtrue&p%5B%5D=facets.brand%255B%255D%3DMarQ%2Bby%2BFlipkart"
+                                },
+                                {
+                                    "title": "LG",
+                                    "url": "/televisions/pr?sid=ckf%2Cczl&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock&otracker=categorytree&p%5B%5D=facets.serviceability%5B%5D%3Dtrue&p%5B%5D=facets.brand%255B%255D%3DLG"
+                                },
+                                {
+                                    "title": "Micromax",
+                                    "url": "/televisions/pr?sid=ckf%2Cczl&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock&otracker=categorytree&p%5B%5D=facets.brand%255B%255D%3DYu%2BBy%2BMicromax&p%5B%5D=facets.brand%255B%255D%3DMicromax&p%5B%5D=facets.serviceability%5B%5D%3Dtrue"
+                                },
+                                {
+                                    "title": "Kodak",
+                                    "url": "/televisions/pr?sid=ckf%2Cczl&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock&otracker=categorytree&p%5B%5D=facets.serviceability%5B%5D%3Dtrue&p%5B%5D=facets.brand%255B%255D%3DKodak"
+                                },
+                                {
+                                    "title": "Shop by Screen Size",
+                                    "url": "",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "24 & below",
+                                    "url": "/televisions/pr?sid=ckf%2Cczl&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock&otracker=categorytree&p%5B%5D=facets.serviceability%5B%5D%3Dtrue&p%5B%5D=facets.screen_size%255B%255D%3D24%2B%2526%2BBelow"
+                                },
+                                {
+                                    "title": "28 - 32",
+                                    "url": "/televisions/pr?sid=ckf%2Cczl&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock&otracker=categorytree&p%5B%5D=facets.serviceability%5B%5D%3Dtrue&p%5B%5D=facets.screen_size%255B%255D%3D28%2B-%2B32"
+                                },
+                                {
+                                    "title": "39 - 43",
+                                    "url": "/televisions/pr?sid=ckf%2Cczl&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock&otracker=categorytree&p%5B%5D=facets.serviceability%5B%5D%3Dtrue&p%5B%5D=facets.screen_size%255B%255D%3D39%2B-%2B43"
+                                },
+                                {
+                                    "title": "48 - 55",
+                                    "url": "/televisions/pr?sid=ckf%2Cczl&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock&otracker=categorytree&p%5B%5D=facets.serviceability%5B%5D%3Dtrue&p%5B%5D=facets.screen_size%255B%255D%3D48%2B-%2B55"
+                                },
+                                {
+                                    "title": "60 & above",
+                                    "url": "/televisions/pr?sid=ckf%2Cczl&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock&otracker=categorytree&p%5B%5D=facets.serviceability%5B%5D%3Dtrue&p%5B%5D=facets.screen_size%255B%255D%3D60%2B%2526%2BAbove"
+                                }
+                            ],
+                            [
+                                {
+                                    "title": "Washing Machine",
+                                    "url": "/washing-machine-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Fully Automatic Front Load",
+                                    "url": "/home-kitchen/home-appliances/washing-machines/fully-automatic-front-load~function/pr?sid=j9e%2Cabm%2C8qx"
+                                },
+                                {
+                                    "title": "Semi Automatic Top Load",
+                                    "url": "/home-kitchen/home-appliances/washing-machines/semi-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx"
+                                },
+                                {
+                                    "title": "Fully Automatic Top Load",
+                                    "url": "/home-kitchen/home-appliances/washing-machines/fully-automatic-top-load~function/pr?sid=j9e%2Cabm%2C8qx"
+                                },
+                                {
+                                    "title": "Air Conditioners",
+                                    "url": "/air-conditioners/pr?sid=j9e%2Cabm%2Cc54&p%5B%5D=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree&p%5B%5D=facets.fulfilled_by%255B%255D%3DFlipkart%2BAssured",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Inverter AC",
+                                    "url": "/air-conditioners/pr?sid=j9e,abm,c54&p[]=facets.fulfilled_by%255B%255D%3DFlipkart%2BAssured&p[]=facets.technology%255B%255D%3DInverter&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Split ACs",
+                                    "url": "/home-kitchen/home-appliances/air-conditioners/split~type/pr?sid=j9e,abm,c54"
+                                },
+                                {
+                                    "title": "Window ACs",
+                                    "url": "/home-kitchen/home-appliances/air-conditioners/window~type/pr?sid=j9e%2Cabm%2Cc54"
+                                },
+                                {
+                                    "title": "Shop By Brand",
+                                    "url": "",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "LG",
+                                    "url": "/air-conditioners/pr?sid=j9e,abm,c54&p[]=facets.fulfilled_by%255B%255D%3DFlipkart%2BAssured&p[]=facets.brand%255B%255D%3DLG&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Hitachi",
+                                    "url": "/air-conditioners/pr?sid=j9e,abm,c54&p[]=facets.fulfilled_by%255B%255D%3DFlipkart%2BAssured&p[]=facets.brand%255B%255D%3DHitachi&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Carrier",
+                                    "url": "/air-conditioners/pr?sid=j9e,abm,c54&p[]=facets.fulfilled_by%255B%255D%3DFlipkart%2BAssured&p[]=facets.brand%255B%255D%3DCarrier&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Refrigerators",
+                                    "url": "/refrigerator-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Single Door",
+                                    "url": "/home-kitchen/home-appliances/refrigerators/single-door~type/pr?sid=j9e%2Cabm%2Chzg"
+                                },
+                                {
+                                    "title": "Double Door",
+                                    "url": "/home-kitchen/home-appliances/refrigerators/double-door~type/pr?sid=j9e%2Cabm%2Chzg"
+                                },
+                                {
+                                    "title": "Triple door",
+                                    "url": "/home-kitchen/home-appliances/refrigerators/triple-door~type/pr?sid=j9e,abm,hzg"
+                                },
+                                {
+                                    "title": "Side by Side",
+                                    "url": "/home-kitchen/home-appliances/refrigerators/pr?otracker=categorytree&p%5B%5D=facets.type%255B%255D%3DSide%2Bby%2BSide&sid=j9e%2Fabm%2Fhzg"
+                                },
+                                {
+                                    "title": "Convertible",
+                                    "url": "/search?p%5B%5D%5B%5D=facets.features%255B%255D%3DConvertible&sid=j9e%2Fabm%2Fhzg&otracker=CLP_filters&p%5B%5D=facets.features%255B%255D%3DConvertible"
+                                }
+                            ],
+                            [
+                                {
+                                    "title": "Kitchen Appliances",
+                                    "url": "/kitchen-appliances-store?otracker=nmenu_sub_Appliances_0_Kitchen%20Appliances",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Microwave Ovens",
+                                    "url": "/home-kitchen/kitchen-appliances/microwave-ovens?otracker=nmenu_sub_Appliances_0_Microwave%20Ovens"
+                                },
+                                {
+                                    "title": "Oven Toaster Grills (OTG)",
+                                    "url": "/oven-toaster-grills/pr?sid=j9e%2Cm38%2Cvr5&otracker=product_breadCrumbs_Oven%20Toaster%20Grills&otracker=nmenu_sub_Appliances_0_Oven%20Toaster%20Grills"
+                                },
+                                {
+                                    "title": "Juicer/Mixer/Grinder",
+                                    "url": "/mixerjuicergrinders/pr?sid=j9e%2Cm38%2C7ek&otracker=nmenu_sub_Appliances_0_Mixer%2FJuicer%2FGrinder"
+                                },
+                                {
+                                    "title": "Electric Kettle",
+                                    "url": "/electric-jugheatertravel-kettles/pr?sid=j9e%2Cm38%2Cxrv&otracker=nmenu_sub_Appliances_0_Electric%20Kettle"
+                                },
+                                {
+                                    "title": "Induction Cooktops",
+                                    "url": "/induction-cooktops/pr?sid=j9e%2Cm38%2C575&otracker=nmenu_sub_Appliances_0_Induction%20Cooktops"
+                                },
+                                {
+                                    "title": "Chimneys",
+                                    "url": "/chimneys-store?otracker=nmenu_sub_TVs%20and%20Appliances_0_Chimneys"
+                                },
+                                {
+                                    "title": "Hand Blenders",
+                                    "url": "/hand-blenders/pr?sid=j9e%2Cm38%2Cu7m&otracker=nmenu_sub_Appliances_0_Hand%20Blender"
+                                },
+                                {
+                                    "title": "Sandwich Makers",
+                                    "url": "/sandwich-makers/pr?sid=j9e%2Cm38%2C1vj&otracker=nmenu_sub_Appliances_0_Sandwich%20Makers"
+                                },
+                                {
+                                    "title": "Pop Up Toasters",
+                                    "url": "/home-kitchen/kitchen-appliances/popup-toasters/pr?sid=j9e,m38,txh&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Electric Cookers",
+                                    "url": "/home-kitchen/kitchen-appliances/electric-cookers/pr?sid=j9e,m38,9m9&otracker=nmenu_sub_Appliances_0_Electric%20Cookers"
+                                },
+                                {
+                                    "title": "Wet Grinders",
+                                    "url": "/home-kitchen/kitchen-appliances/wet-grinders/pr?sid=j9e,m38,htd&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Food Processors",
+                                    "url": "/food-processors/pr?sid=j9e%2Cm38%2Crj3&otracker=nmenu_sub_Appliances_0_Food%20Processors"
+                                },
+                                {
+                                    "title": "Coffee Makers",
+                                    "url": "/home-kitchen/kitchen-appliances/coffee-makers/pr?sid=j9e,m38,wqo&otracker=nmenu_sub_Appliances_0_Coffee%20Makers"
+                                },
+                                {
+                                    "title": "Dishwashers",
+                                    "url": "/dishwasher-store?otracker=nmenu_sub_Appliances_0_Dishwashers"
+                                },
+                                {
+                                    "title": "Healthy Living Appliances",
+                                    "url": "/home-kitchen/~appliances-for-a-healthy-living/pr?sid=j9e",
+                                    "type": "heading"
+                                }
+                            ],
+                            [
+                                {
+                                    "title": "Small Home Appliances",
+                                    "url": "/home-appliance-store?otracker=nmenu_sub_Appliances_0_Small%20Home%20Appliances",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Irons",
+                                    "url": "/iron/pr?sid=j9e%2Cabm%2Ca0u&otracker=nmenu_sub_Appliances_0_Irons&otracker=nmenu_sub_Appliances_0_Irons"
+                                },
+                                {
+                                    "title": "Water Purifiers",
+                                    "url": "/water-purifiers/pr?sid=j9e%2Cabm%2Ci45&otracker=nmenu_sub_Appliances_0_Water%20Purifiers"
+                                },
+                                {
+                                    "title": "Fans",
+                                    "url": "/home-kitchen/home-appliances/fans/pr?sid=j9e,abm,lbz&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Air Coolers",
+                                    "url": "/home-kitchen/home-appliances/air-coolers/pr?sid=j9e,abm,52j&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Inverters",
+                                    "url": "home-kitchen/home-appliances/inverters/pr?sid=j9e,abm,7no&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Vacuum Cleaners",
+                                    "url": "/vacuum-cleaners/pr?sid=j9e%2Cabm%2Cul2&otracker=nmenu_sub_Appliances_0_Vacuum%20Cleaners&otracker=nmenu_sub_Appliances_0_Vacuum%20Cleaners"
+                                },
+                                {
+                                    "title": "Sewing Machines",
+                                    "url": "/home-kitchen/home-appliances/sewing-machines/pr?sid=j9e,abm,0zg&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Voltage Stabilizers",
+                                    "url": "/home-kitchen/home-appliances/voltage-stabilizers/pr?sid=j9e,abm,xf4&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Water Geysers",
+                                    "url": "/water-geysers/pr?sid=j9e%2Cabm%2Cbfm&otracker=categorytree&otracker=nmenu_sub_Appliances_0_Water%20Geysers"
+                                },
+                                {
+                                    "title": "Immersion Rods",
+                                    "url": "/home-kitchen/home-appliances/immersion-rods/pr?sid=j9e,abm,rqo&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Top Brands",
+                                    "url": "",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Livpure",
+                                    "url": "https://www.flipkart.com/home-kitchen/pr?sid=j9e&otracker=categorytree&p%5B%5D=facets.brand%255B%255D%3DLivpure&p%5B%5D=facets.brand%255B%255D%3Dlivpure&p%5B%5D=facets.brand%255B%255D%3DLIVPURE"
+                                },
+                                {
+                                    "title": "Philips",
+                                    "url": "https://www.flipkart.com/search?p[]=facets.brand%255B%255D%3DPhilips&sid=j9e%2Cabm&otracker=CLP_filters"
+                                },
+                                {
+                                    "title": "Bajaj",
+                                    "url": "https://www.flipkart.com/home-kitchen/home-appliances/pr?count=40&otracker=categorytree&p%5B%5D=facets.brand%255B%255D%3DBajaj&sid=j9e%2Fabm"
+                                },
+                                {
+                                    "title": "IFB",
+                                    "url": "https://www.flipkart.com/search?sid=j9e%2Fm38&otracker=CLP_Filters&p%5B%5D=facets.serviceability%5B%5D%3Dtrue&p%5B%5D=facets.brand%255B%255D%3DIFB"
+                                },
+                                {
+                                    "title": "Eureka Forbes",
+                                    "url": "https://www.flipkart.com/home-kitchen/pr?sid=j9e&p%5B%5D=facets.brand%255B%255D%3DEureka%2BForbes&otracker=categorytree&p%5B%5D=facets.brand%255B%255D%3DEureka%2BForbes%2BAeroguard&p%5B%5D=facets.brand%255B%255D%3DEureka%2BForbes%2BAquasure%2Bfrom%2BAquaguard&p%5B%5D=facets.brand%255B%255D%3DEureka%2BForbes%2BAquasure&p%5B%5D=facets.brand%255B%255D%3DEuroclean%2BEureka%2BForbes&p%5B%5D=facets.serviceability%5B%5D%3Dtrue"
+                                },
+                                {
+                                    "title": "Kaff",
+                                    "url": "https://www.flipkart.com/home-kitchen/pr?sid=j9e&otracker=categorytree&p%5B%5D=facets.brand%255B%255D%3DKaff&p%5B%5D=facets.fulfilled_by%255B%255D%3DFlipkart%2BAssured"
+                                }
+                            ],
+                            [
+                                {
+                                    "title": "Buying Guides",
+                                    "url": "",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Televisions",
+                                    "url": "/buying-guide/tvs?sid=ckf,czl"
+                                },
+                                {
+                                    "title": "Washing Machines",
+                                    "url": "/buying-guide/washing-machines-dryers?sid=j9e,abm,8qx"
+                                },
+                                {
+                                    "title": "Refrigerators",
+                                    "url": "/buying-guide/refrigerators?sid=j9e,abm,hzg"
+                                },
+                                {
+                                    "title": "Air Conditioners",
+                                    "url": "/buying-guide/air-conditioners?sid=j9e,abm,c54"
+                                },
+                                {
+                                    "title": "Water Purifiers",
+                                    "url": "/buying-guide/water-purifiers?sid=j9e,abm,i45"
+                                },
+                                {
+                                    "title": "Air Purifiers",
+                                    "url": "/buying-guide/air-purifiers?sid=j9e,abm,3o4"
+                                },
+                                {
+                                    "title": "Chimneys",
+                                    "url": "/buying-guide/chimneys?sid=j9e,m38,tgz&otracker=bg_from_browse_lhs"
+                                },
+                                {
+                                    "title": "Water Geysers",
+                                    "url": "/buying-guide/water-geysers?sid=j9e,abm,bfm&otracker=bg_from_browse_lhs"
+                                },
+                                {
+                                    "title": "New Launches",
+                                    "url": "",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Vu Premium Android TVs",
+                                    "url": "/televisions/~vu-certified-android-tvs/pr?sid=ckf%2Cczl&p%5B%5D=facets.serviceability%5B%5D%3Dtrue&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock"
+                                },
+                                {
+                                    "title": "Samsung UHD TVs",
+                                    "url": "/televisions/~samsung-4k-smart-tvs/pr?sid=ckf%2Cczl&p%5B%5D=facets.brand%255B%255D%3DSamsung&p%5B%5D=facets.serviceability%5B%5D%3Dtrue&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock"
+                                },
+                                {
+                                    "title": "Mi (32) 4A Pro Android TV",
+                                    "url": "/mi-led-smart-tv-4a-pro-80-cm-32-android/p/itmfdwh5jyqhmvzg?pid=TVSFDWH5K9N2FDTK"
+                                },
+                                {
+                                    "title": "MarQ (43) FHD Smart TV",
+                                    "url": "/marq-flipkart-ultra-thin-bezel-108cm-43-inch-full-hd-led-smart-tv-android/p/itmfaqvze443xze3?pid=TVSFAQVZ8SRBHZ2Z"
+                                },
+                                {
+                                    "title": "LG Refrigerators",
+                                    "url": "/home-kitchen/~just-launched-kitchen-appliances/pr?sid=j9e&p%5B%5D=facets.serviceability%5B%5D%3Dtrue&p%5B%5D=facets.brand%255B%255D%3DLG"
+                                },
+                                {
+                                    "title": "Thomson (40) 4K Smart TV",
+                                    "url": "/thomson-ud9-102cm-40-inch-ultra-hd-4k-led-smart-tv/p/itmfdvfrxxphynpf?pid=TVSFDVFRHPQQWYPV"
+                                },
+                                {
+                                    "title": "Whirlpool Refrigerators",
+                                    "url": "/home-kitchen/~just-launched-kitchen-appliances/pr?sid=j9e&p%5B%5D=facets.serviceability%5B%5D%3Dtrue&p%5B%5D=facets.brand%255B%255D%3DWhirlpool"
+                                },
+                                {
+                                    "title": "Kodak (22) | (32) LED TVs",
+                                    "url": "/televisions/pr?sid=ckf%2Cczl&p%5B%5D=facets.price_range.from%3DMin&otracker=categorytree&p%5B%5D=facets.price_range.to%3D10000&p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock&p%5B%5D=facets.brand%255B%255D%3DKodak&p%5B%5D=facets.serviceability%5B%5D%3Dtrue&p%5B%5D=facets.number_of_hdmi_ports%255B%255D%3DOne"
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "men": {
+                "title": "Men",
+                "url": "#",
+                "importantLinks": [
+
+                ],
+                "tabs": [
+                    {
+                        "title": "Categories",
+                        "columns": [
+                            [
+                                {
+                                    "title": "Footwear",
+                                    "url": "/mens-footwear/pr?sid=osp,cil",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Sports Shoes",
+                                    "url": "/mens-footwear/sports-shoes/pr?sid=osp,cil,1cu"
+                                },
+                                {
+                                    "title": "Casual Shoes",
+                                    "url": "/mens-footwear/casual-shoes/pr?sid=osp,cil,e1f"
+                                },
+                                {
+                                    "title": "Formal Shoes",
+                                    "url": "/mens-footwear/formal-shoes/pr?sid=osp,cil,ssb"
+                                },
+                                {
+                                    "title": "Sandals & Floaters",
+                                    "url": "/mens-footwear/sandals-floaters/pr?sid=osp,cil,e83"
+                                },
+                                {
+                                    "title": "Flip- Flops",
+                                    "url": "/mens-footwear/slippers-flip-flops/pr?sid=osp,cil,e1r"
+                                },
+                                {
+                                    "title": "Loafers",
+                                    "url": "/mens-footwear/casual-shoes/loafers~type/pr?sid=osp%2Ccil%2Ce1f"
+                                },
+                                {
+                                    "title": "Boots",
+                                    "url": "/mens-footwear/casual-shoes/boots~type/pr?sid=osp%2Ccil%2Ce1f"
+                                },
+                                {
+                                    "title": "Running Shoes",
+                                    "url": "/mens-footwear/sports-shoes/running-shoes~type/pr?sid=osp,cil,1cu"
+                                },
+                                {
+                                    "title": "Sneakers",
+                                    "url": "/mens-footwear/casual-shoes/sneakers~type/pr?sid=osp%2Ccil%2Ce1f"
+                                },
+                                {
+                                    "title": "Men's Grooming",
+                                    "url": "/mens-grooming-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Deodorants",
+                                    "url": "/beauty-and-personal-care/fragrances/deodorants/pr?sid=t06,r3o,347"
+                                },
+                                {
+                                    "title": "Perfumes",
+                                    "url": "/beauty-and-personal-care/fragrances/perfumes/pr?otracker=categorytree&p%5B%5D=facets.ideal_for%255B%255D%3DBoys&p%5B%5D=facets.ideal_for%255B%255D%3DMen&sid=t06%2Fr3o%2Faa1"
+                                },
+                                {
+                                    "title": "Beard Care & Grooming",
+                                    "url": "/beauty-and-personal-care/mens-grooming/pr?count=40&otracker=categorytree&p%5B%5D=facets.brand%255B%255D%3DBeardo&p%5B%5D=facets.brand%255B%255D%3DThe%2BMan%2BCompany&p%5B%5D=facets.brand%255B%255D%3DAlpha%2BMale%2Bgrooming&p%5B%5D=facets.brand%255B%255D%3DAlpha%2BMale%2BGrooming&p%5B%5D=facets.brand%255B%255D%3DAlpha%2Bmale%2BGrooming&p%5B%5D=facets.brand%255B%255D%3Dalphamalegrooming&p%5B%5D=facets.brand%255B%255D%3DBEARDHOOD&p%5B%5D=facets.brand%255B%255D%3DBeardhood&p%5B%5D=facets.brand%255B%255D%3DBeardraja&p%5B%5D=facets.brand%255B%255D%3DGangs%2Bof%2BBeard&p%5B%5D=facets.brand%255B%255D%3Dgentlemen%2527s%2Btonic&p%5B%5D=facets.brand%255B%255D%3DBigen&p%5B%5D=facets.brand%255B%255D%3Dtrumen&p%5B%5D=facets.brand%255B%255D%3DTrumen%2BBeard%2Boil&p%5B%5D=facets.brand%255B%255D%3DSt.%2BBeard&p%5B%5D=facets.brand%255B%255D%3DSt.Beard&p%5B%5D=facets.brand%255B%255D%3DThe%2BGentlemen%2527s%2BBeard&p%5B%5D=facets.brand%255B%255D%3DDAARIMOOCH&p%5B%5D=facets.brand%255B%255D%3DDaarimooch&p%5B%5D=facets.brand%255B%255D%3DThe%2BReal%2BMan&p%5B%5D=facets.brand%255B%255D%3DTHE%2BREAL%2BMAN&sid=t06%2Fhb1"
+                                },
+                                {
+                                    "title": "Shaving & Aftershave",
+                                    "url": "/beauty-and-personal-care/mens-grooming/pr?count=40&otracker=categorytree&p%5B%5D=facets.brand%255B%255D%3DGillette&p%5B%5D=facets.brand%255B%255D%3Dgillete&p%5B%5D=facets.brand%255B%255D%3DGillette%2BFusion%2BProglide&p%5B%5D=facets.brand%255B%255D%3DUstraa&p%5B%5D=facets.brand%255B%255D%3DOld%2BSpice&p%5B%5D=facets.brand%255B%255D%3DDenim&p%5B%5D=facets.brand%255B%255D%3DBombay%2BShaving%2BCompany&p%5B%5D=facets.brand%255B%255D%3DLather%2B%2526%2BWood%2BShaving%2BCo.&p%5B%5D=facets.brand%255B%255D%3DShaving%2BStation&p%5B%5D=facets.brand%255B%255D%3DThe%2BArt%2BOf%2BShaving&sid=t06%2Fhb1"
+                                },
+                                {
+                                    "title": "Sexual Wellness",
+                                    "url": "/beauty-and-personal-care/sexual-wellness/pr?sid=t06,7vg&otracker=categorytree"
+                                }
+                            ],
+                            [
+                                {
+                                    "title": "Clothing",
+                                    "url": "/mens-clothing/pr?sid=2oq,s9b&otracker=categorytree",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Top wear",
+                                    "url": "/mens-clothing/~mens-top-wear/pr?sid=2oq%2Cs9b",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "T-Shirts",
+                                    "url": "/mens-clothing/tshirts/pr?sid=2oq,s9b,j9y"
+                                },
+                                {
+                                    "title": "Shirts",
+                                    "url": "/men/shirts/pr?sid=2oq,s9b,mg4"
+                                },
+                                {
+                                    "title": "Kurtas",
+                                    "url": "/mens-clothing/ethnic-wear/kurtas/pr?sid=2oq,s9b,3a0,r6s"
+                                },
+                                {
+                                    "title": "Suits & Blazers",
+                                    "url": "/mens-clothing/suits-blazers/pr?sid=2oq,s9b,q9f"
+                                },
+                                {
+                                    "title": "Bottom wear",
+                                    "url": "/mens-clothing/~mens-bottom-wear/pr?sid=2oq%2Cs9b",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Jeans",
+                                    "url": "/men/jeans/pr?sid=2oq,s9b,94h"
+                                },
+                                {
+                                    "title": "Trousers",
+                                    "url": "/mens-clothing/trousers/pr?sid=2oq,s9b,9uj"
+                                },
+                                {
+                                    "title": "Shorts & 3/4ths",
+                                    "url": "/mens-clothing/~shorts-and-capris/pr?sid=2oq%2Cs9b"
+                                },
+                                {
+                                    "title": "Cargos",
+                                    "url": "/mens-clothing/cargos-shorts-34ths/cargos/pr?sid=2oq,s9b,vde,lrd"
+                                },
+                                {
+                                    "title": "Track pants",
+                                    "url": "/mens-clothing/sports-wear/track-pants/pr?sid=2oq,s9b,6gr,rfn"
+                                },
+                                {
+                                    "title": "Ties, Socks, Caps & more",
+                                    "url": "/mens-clothing/accessories-combo-sets/pr?sid=2oq,s9b,8jf",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Kurta, Pyjama & more",
+                                    "url": "/mens-clothing/ethnic-wear/pr?sid=2oq,s9b,3a0",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Fabrics",
+                                    "url": "/mens-clothing/fabrics/pr?sid=2oq,s9b,9hz",
+                                    "type": "heading"
+                                }
+                            ],
+                            [
+                                {
+                                    "title": "Seasonal Wear",
+                                    "url": "/mens-clothing/winter-seasonal-wear/pr?sid=2oq,s9b,qgu",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Sweaters",
+                                    "url": "/mens-clothing/winter-seasonal-wear/sweaters/pr?sid=2oq,s9b,qgu,l8m"
+                                },
+                                {
+                                    "title": "Jackets",
+                                    "url": "/mens-clothing/winter-seasonal-wear/jackets/pr?sid=2oq,s9b,qgu,8cd"
+                                },
+                                {
+                                    "title": "Sweatshirts",
+                                    "url": "/mens-clothing/winter-seasonal-wear/sweatshirts/pr?sid=2oq,s9b,qgu,8vm"
+                                },
+                                {
+                                    "title": "Thermals",
+                                    "url": "/mens-clothing/inner-wear-sleep-wear/thermals/pr?sid=2oq,s9b,b1a,bhf"
+                                },
+                                {
+                                    "title": "Raincoats",
+                                    "url": "/mens-clothing/winter-seasonal-wear/raincoats/pr?sid=2oq,s9b,qgu,hf8&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Sports wear",
+                                    "url": "/mens-clothing/sports-wear/pr?sid=2oq,s9b,6gr",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Sports T-Shirts",
+                                    "url": "/mens-clothing/sports-wear/tshirts/pr?sid=2oq,s9b,6gr,j9y"
+                                },
+                                {
+                                    "title": "Track Pants",
+                                    "url": "/mens-clothing/sports-wear/track-pants/pr?sid=2oq,s9b,6gr,rfn"
+                                },
+                                {
+                                    "title": "ICC World Cup TShirts",
+                                    "url": "/men/tshirts/icc-cricket-world-cup~brand/pr?sid=2oq,s9b,j9y "
+                                },
+                                {
+                                    "title": "Shorts",
+                                    "url": "/mens-clothing/cargos-shorts-34ths/shorts/pr?sid=2oq,s9b,vde,59q"
+                                },
+                                {
+                                    "title": "Innerwear & Sleepwear",
+                                    "url": "/mens-clothing/inner-wear-sleep-wear/pr?sid=2oq,s9b,b1a",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Briefs & Trunks",
+                                    "url": "/mens-clothing/~briefs-and-trunks/pr?sid=2oq%2Cs9b"
+                                },
+                                {
+                                    "title": "Vests",
+                                    "url": "/mens-clothing/inner-wear-sleep-wear/vests/pr?sid=2oq,s9b,b1a,kgo"
+                                },
+                                {
+                                    "title": "Boxers",
+                                    "url": "/mens-clothing/inner-wear-sleep-wear/boxers/pr?sid=2oq,s9b,b1a,bw1"
+                                },
+                                {
+                                    "title": "Thermals",
+                                    "url": "/mens-clothing/inner-wear-sleep-wear/thermals/pr?sid=2oq,s9b,b1a,bhf"
+                                }
+                            ],
+                            [
+                                {
+                                    "title": "Watches",
+                                    "url": "/mens-watches-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Fastrack",
+                                    "url": "/watches/fastrack~brand/pr?sid=r18"
+                                },
+                                {
+                                    "title": "Casio",
+                                    "url": "/watches/casio~brand/pr?sid=r18"
+                                },
+                                {
+                                    "title": "Titan",
+                                    "url": "/watches/titan~brand/pr?sid=r18"
+                                },
+                                {
+                                    "title": "Fossil",
+                                    "url": "/watches/fossil~brand/pr?sid=r18"
+                                },
+                                {
+                                    "title": "Sonata",
+                                    "url": "/watches/sonata~brand/pr?sid=r18"
+                                },
+                                {
+                                    "title": "Accessories",
+                                    "url": "/mens-bags-wallet-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Backpacks",
+                                    "url": "/bags-wallets-belts/bags-backpacks/backpacks/pr?sid=reh,4d7,ak9"
+                                },
+                                {
+                                    "title": "Belts",
+                                    "url": "/bags-wallets-belts/belts/~men/pr?sid=reh,wq9"
+                                },
+                                {
+                                    "title": "Sunglasses",
+                                    "url": "/sunglasses/pr?p%5B%5D=facets.ideal_for%255B%255D%3DMen&p%5B%5D=facets.ideal_for%255B%255D%3DBoys&p%5B%5D=facets.ideal_for%255B%255D%3DMen%2B%2526%2BWomen&p%5B%5D=facets.ideal_for%255B%255D%3DBoys%2B%2526%2BGirls&sid=26x"
+                                },
+                                {
+                                    "title": "Luggage & Travel",
+                                    "url": "/bags-wallets-belts/luggage-travel/pr?count=40&p%5B%5D=facets.ideal_for%255B%255D%3DBoys%2B%2526%2BGirls&p%5B%5D=facets.ideal_for%255B%255D%3DMen%2B%2526%2BWomen&p%5B%5D=facets.ideal_for%255B%255D%3DMen&p%5B%5D=facets.ideal_for%255B%255D%3DMen%2527s&p%5B%5D=facets.ideal_for%255B%255D%3DBoys&sid=reh%2Fplk"
+                                },
+                                {
+                                    "title": "Frames",
+                                    "url": "/eyewear/frames/pr?count=40&p%5B%5D=facets.ideal_for%255B%255D%3DMen&p%5B%5D=facets.ideal_for%255B%255D%3DUnisex&sid=u73%2Fh4k"
+                                },
+                                {
+                                    "title": "Jewellery",
+                                    "url": "/jewellery/pr?p%5B%5D=facets.ideal_for%255B%255D%3DMen&p%5B%5D=facets.ideal_for%255B%255D%3DBoys&sid=mcr"
+                                },
+                                {
+                                    "title": "Sports & Fitness Store",
+                                    "url": "/sport-store",
+                                    "type": "heading"
+                                }
+                            ],
+                            [
+                                {
+                                    "title": "Smart Watches",
+                                    "url": "/wearable-smart-devices/smart-watches/pr?sid=ajy,buh&p%5B%5D=facets.filter_standard%255B%255D%3D1&facets.availability%5b%5d=Exclude+Out+of+Stock&otracker=CLP_lhs",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Smart Bands",
+                                    "url": "/wearable-smart-devices/smart-bands/pr?sid=ajy,q7p",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Personal Care Appliances",
+                                    "url": "/personal-care-appliances-men-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Trimmers",
+                                    "url": "/health-personal-care-appliances/personal-care-appliances/trimmers/pr?count=40&otracker=nmenu_sub_Men_0_Trimmers&p%5B%5D=facets.ideal_for%255B%255D%3DMen&p%5B%5D=facets.ideal_for%255B%255D%3DMen%2B%2526%2BWomen&sid=zlw%2F79s%2Fby3"
+                                },
+                                {
+                                    "title": "Shavers",
+                                    "url": "/health-personal-care-appliances/personal-care-appliances/shavers/pr?sid=zlw,79s,u3j"
+                                },
+                                {
+                                    "title": "Grooming Kits",
+                                    "url": "/health-personal-care-appliances/personal-care-appliances/grooming-kit/pr?sid=zlw,79s,bi7"
+                                },
+                                {
+                                    "title": "Featured",
+                                    "url": "",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Watches Store",
+                                    "url": "/mens-watches-store"
+                                },
+                                {
+                                    "title": "Footwear Club",
+                                    "url": "/men-exclusive-store"
+                                },
+                                {
+                                    "title": "Bags & Wallet",
+                                    "url": "/mens-bags-wallet-store"
+                                },
+                                {
+                                    "title": "T-Shirt Store",
+                                    "url": "/mens-tshirts-store"
+                                },
+                                {
+                                    "title": "Adidas",
+                                    "url": "/mens-footwear/pr?sid=osp%2Ccil&otracker=nmenu_sub_Men_0_Footwear&p%5B%5D=facets.brand%255B%255D%3DADIDAS&p%5B%5D=facets.brand%255B%255D%3DADIDAS%2BNEO&p%5B%5D=facets.brand%255B%255D%3DADIDAS%2BORIGINALS"
+                                },
+                                {
+                                    "title": "Beardo",
+                                    "url": "/beauty-and-personal-care/mens-grooming/hair-care/pr?count=40&otracker=categorytree&p%5B%5D=facets.brand%255B%255D%3DBeardo&sid=t06%2Fhb1%2Fb7e"
+                                },
+                                {
+                                    "title": "Reebok",
+                                    "url": "/mens-footwear/reebok~brand/pr?sid=osp,cil"
+                                },
+                                {
+                                    "title": "Skechers",
+                                    "url": "/mens-footwear/skechers~brand/pr?sid=osp,cil"
+                                },
+                                {
+                                    "title": "Nike",
+                                    "url": "/mens-footwear/nike~brand/pr?sid=osp,cil"
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "women": {
+                "title": "Women",
+                "url": "#",
+                "importantLinks": [
+
+                ],
+                "tabs": [
+                    {
+                        "title": "Categories",
+                        "columns": [
+                            [
+                                {
+                                    "title": "Clothing",
+                                    "url": "/womens-clothing/pr?sid=2oq,c1r&otracker=categorytree",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Western Wear",
+                                    "url": "/womens-clothing/western-wear/pr?sid=2oq,c1r,ha6&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Top, T-Shirts & Shirts",
+                                    "url": "/womens-clothing/western-wear/shirts-tops-tunics/pr?sid=2oq,c1r,ha6,cck&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Dresses",
+                                    "url": "/women/dresses/pr?sid=2oq,c1r,ha6,xzt,3y0&otracker=categorytree&otracker=nmenu_sub_Women_0_Dresses&otracker=nmenu_sub_Women_0_Dresses"
+                                },
+                                {
+                                    "title": "Jeans",
+                                    "url": "/womens-clothing/western-wear/jeans-shorts/jeans/pr?sid=2oq,c1r,ha6,uuk,q02&otracker=nmenu_sub_Women_0_Jeans&otracker=nmenu_sub_Women_0_Jeans"
+                                },
+                                {
+                                    "title": "Shorts",
+                                    "url": "/womens-clothing/western-wear/jeans-shorts/shorts/pr?sid=2oq,c1r,ha6,uuk,7e2&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Skirts",
+                                    "url": "/womens-clothing/western-wear/dresses-skirts/skirts/pr?sid=2oq,c1r,ha6,xzt,u0w&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Leggings & Jeggings",
+                                    "url": "/womens-clothing/western-wear/leggings-jeggings/pr?sid=2oq,c1r,ha6,q7g&otracker=categorytree&otracker=nmenu_sub_Women_0_Leggings%20%26%20Jeggings"
+                                },
+                                {
+                                    "title": "Trousers & Capris",
+                                    "url": "/western-wear/trousers-capris/pr?sid=2oq,c1r,ha6,uo8&otracker=nmenu_sub_Women_0_Trousers%20and%20Capris&otracker=nmenu_sub_Women_0_Trousers%20%26%20Capris"
+                                },
+                                {
+                                    "title": "Lingerie & Sleepwear",
+                                    "url": "/womens-clothing/lingerie-sleep-swimwear/pr?sid=2oq,c1r,tbt&otracker=categorytree&otracker=nmenu_sub_Women_0_Lingerie%20and%20Sleepwear&otracker=nmenu_sub_Women_0_Lingerie%20%26%20Sleepwear"
+                                },
+                                {
+                                    "title": "Bras",
+                                    "url": "/womens-clothing/lingerie-sleep-swimwear/bras/pr?sid=2oq,c1r,tbt,3o8&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Panties",
+                                    "url": "/womens-clothing/lingerie-sleep-swimwear/panties/pr?sid=2oq,c1r,tbt,8sc&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Lingerie Sets",
+                                    "url": "/womens-clothing/lingerie-sleep-swimwear/lingerie-sets/pr?sid=2oq,c1r,tbt,xjz&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Nightsuits & Nightdresses",
+                                    "url": "/womens-clothing/lingerie-sleep-swimwear/night-dresses-nighties/pr?sid=2oq%2Cc1r%2Ctbt%2C25w&otracker=nmenu_sub_Women_0_Nightsuits%20and%20Nightdresses&otracker=nmenu_sub_Women_0_Nightsuits%20%26%20Nightdresses"
+                                },
+                                {
+                                    "title": "Shapewear",
+                                    "url": "/womens-clothing/lingerie-sleep-swimwear/shapewears/pr?sid=2oq,c1r,tbt,rqz&otracker=categorytree&otracker=nmenu_sub_Women_0_Shapewear"
+                                },
+                                {
+                                    "title": "Camisoles & Slips",
+                                    "url": "/womens-clothing/lingerie-sleep-swimwear/camisoles-slips/pr?sid=2oq,c1r,tbt,w9p&otracker=categorytree&otracker=nmenu_sub_Women_0_Camisoles%20%26%20Slips"
+                                },
+                                {
+                                    "title": "Swim & Beachwear",
+                                    "url": "/womens-clothing/lingerie-sleep-swimwear/swim-beach-wear/pr?sid=2oq,c1r,tbt,wg3&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Winter & Seasonal Wear",
+                                    "url": "/womens-clothing/winter-seasonal-wear/pr?sid=2oq,c1r,67x&otracker=nmenu_sub_Women_0_Winter%20and%20Seasonal%20Wear&otracker=nmenu_sub_Women_0_Winter%20%26%20Seasonal%20Wear",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Party Dresses",
+                                    "url": "/women/dresses/party~occasion/pr?sid=2oq,c1r,ha6,xzt,3y0",
+                                    "type": "heading"
+                                }
+                            ],
+                            [
+                                {
+                                    "title": "Ethnic Wear",
+                                    "url": "/womens-clothing/ethnic-wear/pr?sid=2oq,c1r,3pj&otracker=nmenu_sub_Women_0_Ethnic%20Wear",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Sarees",
+                                    "url": "/sarees/pr?sid=2oq,c1r,3pj,7od&otracker=nmenu_sub_Women_0_Sarees"
+                                },
+                                {
+                                    "title": "Kurtas & Kurtis",
+                                    "url": "/womens-clothing/ethnic-wear/kurtas-kurtis/pr?sid=2oq,c1r,3pj,ua6&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Dress Material",
+                                    "url": "/womens-clothing/ethnic-wear/dress-materials/pr?sid=2oq,c1r,3pj,5ji&otracker=nmenu_sub_Women_0_Dress%20Material"
+                                },
+                                {
+                                    "title": "Lehenga Choli",
+                                    "url": "/womens-clothing/ethnic-wear/lehenga-cholis/pr?sid=2oq,c1r,3pj,t5i&otracker=nmenu_sub_Women_0_Lehenga%20Choli"
+                                },
+                                {
+                                    "title": "Blouse",
+                                    "url": "/womens-clothing/ethnic-wear/blouses/pr?sid=2oq,c1r,3pj,vx5&otracker=nmenu_sub_Women_0_Blouse"
+                                },
+                                {
+                                    "title": "Leggings & Salwars",
+                                    "url": "/womens-clothing/ethnic-wear/ethnic-bottoms/pr?sid=2oq,c1r,3pj,9l3&otracker=nmenu_sub_Women_0_Leggings%20and%20Salwars"
+                                },
+                                {
+                                    "title": "Anarkali Suits",
+                                    "url": "/womens-clothing/anarkali~type/pr?sid=2oq,c1r&otracker=nmenu_sub_Women_0_Anarkali%20Suits"
+                                },
+                                {
+                                    "title": "Petticoats",
+                                    "url": "/womens-clothing/ethnic-wear/petticoats/pr?sid=2oq,c1r,3pj,yo1&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Abhayas & Burqas",
+                                    "url": "/womens-clothing/ethnic-wear/abayas-burqas/pr?sid=2oq,c1r,3pj,oh9&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Dupattas",
+                                    "url": "/womens-clothing/ethnic-wear/dupattas/pr?sid=2oq,c1r,3pj,s0u&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Sports Wear",
+                                    "url": "/womens-clothing/sports-gym-wear/pr?sid=2oq,c1r,6p8&otracker=nmenu_sub_Women_0_Sports%20Wear",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "International Brands",
+                                    "url": "/womens-clothing/pr?sid=2oq%2Cc1r&otracker=categorytree&p%5B%5D=facets.brand%255B%255D%3DVero%2BModa&p%5B%5D=facets.brand%255B%255D%3DOnly&p%5B%5D=facets.brand%255B%255D%3DLevi%2527s&p%5B%5D=facets.brand%255B%255D%3DPepe%2BJeans&p%5B%5D=facets.brand%255B%255D%3DLee&p%5B%5D=facets.brand%255B%255D%3DForever%2B21&p%5B%5D=facets.brand%255B%255D%3DADIDAS&p%5B%5D=facets.brand%255B%255D%3DPuma&p%5B%5D=facets.brand%255B%255D%3DNike&p%5B%5D=facets.brand%255B%255D%3DUnited%2BColors%2Bof%2BBenetton",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "New arrivals !",
+                                    "url": "/womens-clothing/pr?count=40&otracker=categorytree&p%5B%5D=facets.brand%255B%255D%3DRemanika&p%5B%5D=facets.brand%255B%255D%3DRain%2Band%2Brainbow&p%5B%5D=facets.brand%255B%255D%3DRain%2Band%2BRainbow&p%5B%5D=facets.brand%255B%255D%3DNGT&p%5B%5D=facets.brand%255B%255D%3DPAMO&p%5B%5D=facets.brand%255B%255D%3DLGC&p%5B%5D=facets.brand%255B%255D%3DQuttos&sid=2oq%2Fc1r",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Under 499",
+                                    "url": "/womens-clothing/pr?otracker=categorytree&p%5B%5D=facets.price_range.from%3DMin&p%5B%5D=facets.price_range.to%3D500&sid=2oq%2Fc1r&otracker=nmenu_sub_Women_0_Under%20499",
+                                    "type": "heading"
+                                }
+                            ],
+                            [
+                                {
+                                    "title": "Footwear",
+                                    "url": "/womens-footwear/pr?sid=osp,iko",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Sandals",
+                                    "url": "/womens-footwear/~womens-sandals/pr?sid=osp,iko",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Flats",
+                                    "url": "/womens-footwear/flats/pr?sid=osp,iko,9d5"
+                                },
+                                {
+                                    "title": "Heels",
+                                    "url": "/womens-footwear/heels/pr?sid=osp,iko,6q1"
+                                },
+                                {
+                                    "title": "Wedges",
+                                    "url": "/womens-footwear/wedges/pr?sid=osp,iko,jpm"
+                                },
+                                {
+                                    "title": "Shoes",
+                                    "url": "/womens-footwear/~sports-casual-shoes/pr?&sid=osp%2Ciko",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Sports Shoes",
+                                    "url": "/womens-footwear/sports-shoes/pr?sid=osp,iko,d20"
+                                },
+                                {
+                                    "title": "Casual Shoes",
+                                    "url": "/womens-footwear/casual-shoes/pr?sid=osp,iko,sx7"
+                                },
+                                {
+                                    "title": "Boots",
+                                    "url": "/womens-footwear/boots/pr?sid=osp%2Ciko%2Cxgp"
+                                },
+                                {
+                                    "title": "Ballerinas",
+                                    "url": "/womens-footwear/ballerinas/pr?sid=osp,iko,974",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Slippers & Flip- Flop's",
+                                    "url": "/womens-footwear/slippers-flip-flops/pr?sid=osp,iko,iz7",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Watches",
+                                    "url": "/womens-watches-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Smart Watches",
+                                    "url": "/wearable-smart-devices/smart-watches/pr?sid=ajy,buh&p%5B%5D=facets.filter_standard%255B%255D%3D1&facets.availability[]=Exclude+Out+of+Stock&otracker=CLP_lhs",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Personal Care Appliances",
+                                    "url": "/health-personal-care-appliances/personal-care-appliances/~personalcareforwomen/pr?sid=zlw%2C79s",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Hair Straightners",
+                                    "url": "/health-personal-care-appliances/personal-care-appliances/hair-straighteners/pr?sid=zlw,79s,dk5"
+                                },
+                                {
+                                    "title": "Hair Dryers",
+                                    "url": "/health-personal-care-appliances/personal-care-appliances/hair-dryers/pr?sid=zlw,79s,mh8"
+                                },
+                                {
+                                    "title": "Epilators",
+                                    "url": "/health-personal-care-appliances/personal-care-appliances/epilators/pr?sid=zlw,79s,k32"
+                                }
+                            ],
+                            [
+                                {
+                                    "title": "Beauty & Grooming",
+                                    "url": "/beauty-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Make Up",
+                                    "url": "/beauty-and-personal-care/makeup/pr?sid=t06,fy9"
+                                },
+                                {
+                                    "title": "Skin Care",
+                                    "url": "/beauty-and-personal-care/body-and-skin-care/pr?otracker=nmenu_sub_Women_0_Skin+Care&p%5B%5D=facets.ideal_for%255B%255D%3DMen%2B%2526%2BWomen&p%5B%5D=facets.ideal_for%255B%255D%3DWomen&sid=t06%2Fiqb"
+                                },
+                                {
+                                    "title": "Hair Care",
+                                    "url": "/beauty-and-personal-care/hair-care/pr?otracker=nmenu_sub_Women_0_Hair+Care&p%5B%5D=facets.ideal_for%255B%255D%3DGirls&p%5B%5D=facets.ideal_for%255B%255D%3DMen%2B%2526%2BWomen&p%5B%5D=facets.ideal_for%255B%255D%3DWomen&sid=t06%2Fb7e"
+                                },
+                                {
+                                    "title": "Bath & Spa",
+                                    "url": "/beauty-and-personal-care/bath-and-spa/pr?sid=t06,xrp&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Deodorants & Perfumes",
+                                    "url": "/beauty-and-personal-care/fragrances/pr?otracker=categorytree&p%5B%5D=facets.ideal_for%255B%255D%3DBaby%2BGirls&p%5B%5D=facets.ideal_for%255B%255D%3DGirls&p%5B%5D=facets.ideal_for%255B%255D%3DWomen&sid=t06%2Fr3o"
+                                },
+                                {
+                                    "title": "Jewellery",
+                                    "url": "/jewellery/pr?sid=mcr",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Precious Jewellery",
+                                    "url": "/jewellery/precious-jewellery/pr?sid=mcr,ykh"
+                                },
+                                {
+                                    "title": "Artificial Jewellery",
+                                    "url": "/fashion-jewellery-store"
+                                },
+                                {
+                                    "title": "Silver Jewellery",
+                                    "url": "/jewellery/silver-jewellery/pr?sid=mcr,tfz"
+                                },
+                                {
+                                    "title": "Accessories",
+                                    "url": "/women-handbags-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Smart Bands",
+                                    "url": "/wearable-smart-devices/smart-bands/pr?sid=ajy,q7p&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Handbags",
+                                    "url": "/bags-wallets-belts/handbags-clutches/handbags/pr?sid=reh,ihu,m08&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Shoulder Bags",
+                                    "url": "/bags-wallets-belts/handbags-clutches/shoulder-bags/pr?sid=reh,ihu,1gy&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Totes",
+                                    "url": "/bags-wallets-belts/handbags-clutches/totes/pr?sid=reh,ihu,v57&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Sling bags",
+                                    "url": "/bags-wallets-belts/handbags-clutches/sling-bags/pr?sid=reh,ihu,mf2&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Clutches",
+                                    "url": "/bags-wallets-belts/wallets-clutches/clutches/pr?sid=reh,cca,q6i&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Wallets & Belts",
+                                    "url": "/bags-wallets-belts/~wallets-belts/pr?p[]=facets.ideal_for%255B%255D=Women&p[]=sort=popularity&sid=reh"
+                                },
+                                {
+                                    "title": "Luggage & Travel",
+                                    "url": "/bags-wallets-belts/luggage-travel/pr?count=40&p%5B%5D=facets.ideal_for%255B%255D%3DBoys%2B%2526%2BGirls&p%5B%5D=facets.ideal_for%255B%255D%3DWomen&p%5B%5D=facets.ideal_for%255B%255D%3DWomen%2527s&p%5B%5D=facets.ideal_for%255B%255D%3DGirls&p%5B%5D=facets.ideal_for%255B%255D%3DMen%2B%2526%2BWomen&sid=reh%2Fplk"
+                                },
+                                {
+                                    "title": "Sunglasses",
+                                    "url": "/sunglasses/pr?p%5B%5D=facets.ideal_for%255B%255D%3DMen%2B%2526%2BWomen&p%5B%5D=facets.ideal_for%255B%255D%3DBoys%2B%2526%2BGirls&p%5B%5D=facets.ideal_for%255B%255D%3DWomen&p%5B%5D=facets.ideal_for%255B%255D%3DGirls&sid=26x"
+                                },
+                                {
+                                    "title": "Frames",
+                                    "url": "/eyewear/frames/pr?count=40&p%5B%5D=facets.ideal_for%255B%255D%3DUnisex&p%5B%5D=facets.ideal_for%255B%255D%3DWomen&sid=u73%2Fh4k"
+                                }
+                            ],
+                            [
+                                {
+                                    "title": "Featured",
+                                    "url": "",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Forever 21",
+                                    "url": "/all/pr?count=40&p%5B%5D=facets.brand%255B%255D%3DForever%2B21&sid=all"
+                                },
+                                {
+                                    "title": "Accessorize",
+                                    "url": "/all/pr?sid=all&p[]=facets.brand%255B%255D%3DAccessorize&otracker=categorytree"
+                                },
+                                {
+                                    "title": "W",
+                                    "url": "/all/pr?count=40&otracker=categorytree&p%5B%5D=facets.brand%255B%255D%3DW&sid=all"
+                                },
+                                {
+                                    "title": "Pantaloons",
+                                    "url": "/womens-clothing/pr?count=40&otracker=categorytree&p%5B%5D=facets.brand%255B%255D%3DAjile%2Bby%2BPantaloons&p%5B%5D=facets.brand%255B%255D%3DAkkriti%2Bby%2BPantaloons&p%5B%5D=facets.brand%255B%255D%3DAnnabelle%2Bby%2BPantaloons&p%5B%5D=facets.brand%255B%255D%3DCandies%2Bby%2BPantaloons&p%5B%5D=facets.brand%255B%255D%3DHoney%2BBy%2BPantaloons&p%5B%5D=facets.brand%255B%255D%3DIzabel%2BLondon%2Bby%2BPantaloons&p%5B%5D=facets.brand%255B%255D%3DRangmanch%2Bby%2BPantaloons&p%5B%5D=facets.brand%255B%255D%3DSF%2BJeans%2Bby%2BPantaloons&sid=2oq%2Fc1r"
+                                },
+                                {
+                                    "title": "Chemistry",
+                                    "url": "/all/~womens-footwear-and-handbag/pr?p%5B%5D=facets.brand%255B%255D%3DChemistry&sid=all"
+                                },
+                                {
+                                    "title": "Lakme",
+                                    "url": "/search?p[]=facets.brand%255B%255D%3DLakme&sid=t06&otracker=CLP_filters"
+                                },
+                                {
+                                    "title": "Nivea",
+                                    "url": "/search?count=40&otracker=CLP_filters&p%5B%5D=facets.brand%255B%255D%3DNivea&p%5B%5D=facets.brand%255B%255D%3DNivea%2BMen&sid=t06"
+                                },
+                                {
+                                    "title": "Catwalk",
+                                    "url": "/womens-footwear/pr?otracker=categorytree&p%5B%5D=facets.brand%255B%255D%3DCatwalk&sid=osp%2Fiko"
+                                },
+                                {
+                                    "title": "Titan-Raga",
+                                    "url": "/watches/pr?otracker=product_breadCrumbs_Watches&p%5B%5D=facets.brand%255B%255D%3DTitan&p%5B%5D=facets.ideal_for%255B%255D%3DWomen&sid=r18"
+                                },
+                                {
+                                    "title": "Fastrack",
+                                    "url": "/all/pr?sid=all&p[]=facets.brand%255B%255D%3DFastrack"
+                                },
+                                {
+                                    "title": "Divastri",
+                                    "url": "/divastri-store"
+                                },
+                                {
+                                    "title": "Rare Roots",
+                                    "url": "/womens-clothing/pr?count=40&p%5B%5D=facets.brand%255B%255D%3DRARE%2BROOTS&sid=2oq%2Fc1r"
+                                },
+                                {
+                                    "title": "Anmi",
+                                    "url": "/the-anmi-store"
+                                },
+                                {
+                                    "title": "Coins & Bars",
+                                    "url": "/gold-silver-coins/coins-bars/pr?sid=all,mcr,73x,ydh&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Crocs",
+                                    "url": "/womens-footwear/pr?sid=osp%2Ciko&p%5B%5D=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree&p%5B%5D=facets.brand%255B%255D%3DCrocs"
+                                },
+                                {
+                                    "title": "Trending today!",
+                                    "url": "",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Ruffles & Frills",
+                                    "url": "/western-wear/pr?facets.availability%5b%5d=Exclude+Out+of+Stock&p%5B%5D=facets.filter_standard%255B%255D%3D1&p%5B%5D=facets.theme%255B%255D%3DRuffles&sid=ha6"
+                                },
+                                {
+                                    "title": "Pastel Kurtas & Kurtis",
+                                    "url": "/search?facets.availability[]=Exclude+Out+of+Stock&p[]=facets.filter_standard[]=1&p[]=facets.theme%255B%255D%3DPastel%2BKurtas&sid=2oq%2Fc1r%2F3pj&otracker=clp_metro_tile3_1_kurta-categ-ca620_kurta-kurti-store_aa76c0f1-f407-428d-9018-e9e3db294186_wp2"
+                                },
+                                {
+                                    "title": "Designer Net Sarees",
+                                    "url": "/sarees/pr?facets.availability[]=Exclude+Out+of+Stock&p%5B%5D=facets.filter_standard%255B%255D%3D1&p%5B%5D=facets.theme%255B%255D%3DDesigner%2BSarees&p%5B%5D=facets.theme%255B%255D%3DPastel&p%5B%5D=facets.theme%255B%255D%3DTouch%2Bof%2BGold&sid=2oq%2Fc1r%2F3pj%2F7od&otracker=clp_metro_tile3_1_saree-categ-1884a_sarees-store_5926195c-d5cd-4ed7-8cf6-5937f3faec19_wp2"
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "baby-kids": {
+                "title": "Baby & Kids",
+                "url": "#",
+                "importantLinks": [
+
+                ],
+                "tabs": [
+                    {
+                        "title": "Categories",
+                        "columns": [
+                            [
+                                {
+                                    "title": "Kids Clothing",
+                                    "url": "/kids-clothing/pr?sid=2oq,mpf&otracker=categorytree",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Boys' Clothing",
+                                    "url": "/kids-clothing/boys-wear/pr?sid=2oq,mpf,u6l",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Polos & T-Shirts",
+                                    "url": "/kids-clothing/boys-wear/polos-tshirts/pr?sid=2oq,mpf,u6l,yj5"
+                                },
+                                {
+                                    "title": "Ethnic Wear",
+                                    "url": "/kids-clothing/boys-wear/ethnic-wear/pr?sid=2oq,mpf,u6l,et9"
+                                },
+                                {
+                                    "title": "Shorts & 3/4ths",
+                                    "url": "/kids-clothing/boys-wear/shorts-34ths/pr?sid=2oq,mpf,u6l,xt9&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Girls' Clothing",
+                                    "url": "/kids-clothing/girls-wear/pr?sid=2oq,mpf,acr",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Dresses & Skirts",
+                                    "url": "/kids-clothing/girls-wear/dresses-skirts/pr?sid=2oq,mpf,acr,ot6"
+                                },
+                                {
+                                    "title": "Ethnic Wear",
+                                    "url": "/kids-clothing/girls-wear/ethnic-wear/pr?sid=2oq,mpf,acr,6rr"
+                                },
+                                {
+                                    "title": "T-shirts & Tops",
+                                    "url": "/kids-clothing/girls-wear/tshirts-tops/pr?sid=2oq,mpf,acr,q0v&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Baby Boy Clothing",
+                                    "url": "/kids-clothing/infants-wear/baby-boys/pr?sid=2oq,mpf,cki,exf",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Body Suits",
+                                    "url": "/infants-wear/baby-boys/bodysuits-sleepsuits/pr?sid=2oq,mpf,cki,exf,cgw"
+                                },
+                                {
+                                    "title": "Polos & T-Shirts",
+                                    "url": "/kids-clothing/infants-wear/baby-boys/polos-tshirts/pr?sid=2oq,mpf,cki,exf,b2d"
+                                },
+                                {
+                                    "title": "Baby Girl Clothing",
+                                    "url": "/kids-clothing/infants-wear/baby-girls/pr?sid=2oq,mpf,cki,kzp",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Body Suits",
+                                    "url": "/kids-clothing/infants-wear/baby-girls/bodysuits-sleepsuits/pr?sid=2oq,mpf,cki,kzp,3gw"
+                                },
+                                {
+                                    "title": "Dresses",
+                                    "url": "/kids-clothing/infants-wear/baby-girls/dresses-skirts/dresses/pr?sid=2oq,mpf,cki,kzp,rf8,l8b"
+                                }
+                            ],
+                            [
+                                {
+                                    "title": "Kids Footwear",
+                                    "url": "/footwear/kids-infant-footwear/pr?sid=osp,mba&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Boys' Footwear",
+                                    "url": "/footwear/kids-infant-footwear/for-boys/pr?sid=osp,mba,o3t",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Sandals",
+                                    "url": "/footwear/kids-infant-footwear/for-boys/sandals/pr?sid=osp,mba,o3t,wqv"
+                                },
+                                {
+                                    "title": "Sport Shoes",
+                                    "url": "/footwear/kids-infant-footwear/for-boys/sports-shoes/pr?sid=osp,mba,o3t,aua"
+                                },
+                                {
+                                    "title": "Girls' Footwear",
+                                    "url": "/footwear/kids-infant-footwear/for-girls/pr?sid=osp,mba,erx",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Flats & Bellies",
+                                    "url": "/footwear/kids-infant-footwear/for-girls/flats-bellies/pr?sid=osp,mba,erx,6yc"
+                                },
+                                {
+                                    "title": "Sport Shoes",
+                                    "url": "/footwear/kids-infant-footwear/for-girls/sports-shoes/pr?sid=osp,mba,erx,9oc"
+                                },
+                                {
+                                    "title": "Baby Footwear",
+                                    "url": "/footwear/kids-infant-footwear/infants/pr?sid=osp,mba,qzr",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Character Shoes",
+                                    "url": "/all/footwear/kids-infant-footwear/pr?p%5B%5D=facets.brand%255B%255D%3DBarbie&p%5B%5D=facets.brand%255B%255D%3DDisney&p%5B%5D=facets.brand%255B%255D%3DSpiderman&sid=all%2Cosp%2Cmba&pincode=110001&filterNone=true",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Kids Winter Wear",
+                                    "url": "/kids-clothing/~kids-winterwear/pr?sid=2oq%2Cmpf&sort=popularity",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Boys Winter Wear",
+                                    "url": "/kids-clothing/boys-wear/winter-seasonal-wear/pr?sid=2oq,mpf,u6l,tim&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Girls Winter Wear",
+                                    "url": "/kids-clothing/girls-wear/winter-seasonal-wear/pr?sid=2oq,mpf,acr,c3a&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Infants Winter Wear",
+                                    "url": "/kids-clothing/infants-wear/~kids-winterwear/pr?sid=2oq,mpf,cki&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Thermals",
+                                    "url": "/kids-clothing/girls-wear/winter-seasonal-wear/thermals/pr?sid=2oq,mpf,acr,c3a,enh&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Kids' Watches",
+                                    "url": "/watches/pr?sid=r18&p%5B%5D=facets.ideal_for%255B%255D%3DGirls&p%5B%5D=facets.ideal_for%255B%255D%3DBoys&p%5B%5D=facets.ideal_for%255B%255D%3DBoys%2B%2526%2BGirls"
+                                },
+                                {
+                                    "title": "Kids' Sunglasses",
+                                    "url": "/sunglasses/pr?sid=26x&p%5B%5D=facets.ideal_for%255B%255D%3DBoys&otracker=categorytree&p%5B%5D=facets.ideal_for%255B%255D%3DGirls&p%5B%5D=facets.ideal_for%255B%255D%3DBoys%2B%2526%2BGirls&p%5B%5D=facets.serviceability%5B%5D%3Dtrue"
+                                }
+                            ],
+                            [
+                                {
+                                    "title": "Toys",
+                                    "url": "/toysclp-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Remote Control Toys",
+                                    "url": "/toys/remote-control-toys/pr?sid=mgl,56m"
+                                },
+                                {
+                                    "title": "Educational Toys",
+                                    "url": "/toys/educational-toys/learning-toys/pr?sid=mgl,u35"
+                                },
+                                {
+                                    "title": "Soft Toys",
+                                    "url": "/toys/stuffed-toys/pr?sid=mgl,1zt"
+                                },
+                                {
+                                    "title": "Cars & Die-cast Vehicles",
+                                    "url": "/toys/vehicle-action-toys/vehicle-pull-along/pr?sid=mgl%2Cj6q"
+                                },
+                                {
+                                    "title": "Outdoor Toys",
+                                    "url": "/toys/outdoor-toys/pr?sid=mgl%2C1k9"
+                                },
+                                {
+                                    "title": "Action Figures",
+                                    "url": "/toys/vehicle-action-toys/action-figures/pr?sid=mgl,k00"
+                                },
+                                {
+                                    "title": "Board Games",
+                                    "url": "/toys/puzzles-board-games/card-games/pr?sid=mgl,qet"
+                                },
+                                {
+                                    "title": "Musical Toys",
+                                    "url": "/toys/musical-toys/pr?p%5B%5D=sort%3Dfeatured&sid=mgl,pz4"
+                                },
+                                {
+                                    "title": "Dolls & Doll Houses",
+                                    "url": "/toys/dolls-doll-houses/pr?sid=mgl,fnw"
+                                },
+                                {
+                                    "title": "Puzzles",
+                                    "url": "/toys/puzzles/pr?sid=mgl%2Clu4"
+                                },
+                                {
+                                    "title": "S.T.E.M Toys",
+                                    "url": "/stem-store"
+                                },
+                                {
+                                    "title": "Helicopter & Drones",
+                                    "url": "/toys/remote-control-toys/pr?sid=mgl%2C56m&otracker=categorytree&p%5B%5D=facets.type%255B%255D%3DPlanes%2B%2526%2BHelicopters"
+                                },
+                                {
+                                    "title": "Toy Guns",
+                                    "url": "/toys/vehicle-action-toys/battle-toys/pr?sid=mgl%2Cgsh&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Party Supplies",
+                                    "url": "/toys/party-supplies/pr?sid=mgl,ksc&otracker=categorytree"
+                                },
+                                {
+                                    "title": "School Supplies",
+                                    "url": "/school-supplies-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "School Bags",
+                                    "url": "/kids-accessories/school-supplies/school-bags/pr?sid=d69,thr,wsp"
+                                },
+                                {
+                                    "title": "School Combo Sets",
+                                    "url": "/toys/school-supplies/school-sets/pr?sid=mgl%2Cthr%2Cscm"
+                                },
+                                {
+                                    "title": "Lunch Box",
+                                    "url": "/toys/school-supplies/lunch-boxes/pr?sid=mgl%2Cthr%2Cvzp"
+                                }
+                            ],
+                            [
+                                {
+                                    "title": "Baby Care",
+                                    "url": "/babycare19-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Diapers",
+                                    "url": "/baby-care/diaper-potty-training/baby-diapers/pr?sid=kyh,fdp,yvf&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Wipes",
+                                    "url": "/baby-care/diaper-potty-training/baby-wipes/pr?sid=kyh,fdp,kvq&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Diapering & Potty Training",
+                                    "url": "/baby-care/diaper-potty-training/pr?sid=kyh,fdp&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Baby Bath, Hair & Skin Care",
+                                    "url": "/baby-care/baby-bath-hair-skin-care/pr?sid=kyh,pl5&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Baby Grooming",
+                                    "url": "/baby-care/baby-grooming/pr?sid=kyh,tyn&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Baby Bathing Accessories",
+                                    "url": "/baby-care/baby-bathing-accessories/pr?sid=kyh,rdc&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Baby Gift Sets & Combo",
+                                    "url": "/baby-care/baby-gift-sets-combo/pr?sid=kyh,utp&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Baby Oral Care",
+                                    "url": "/baby-care/baby-oral-care/pr?sid=kyh,ga0&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Nursing & Breast Feeding",
+                                    "url": "/baby-care/nursing-breast-feeding/pr?sid=kyh,ie7&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Baby Food",
+                                    "url": "/baby-care/baby-food/pr?sid=kyh,arw&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Baby Feeding Bottle & Accessories",
+                                    "url": "/baby-care/baby-feeding-bottle-accessories/pr?sid=kyh,9gj&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Baby Feeding Utensils & Accessories",
+                                    "url": "/baby-care/baby-feeding-utensils-accessories/pr?sid=kyh,dki&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Baby Bedding",
+                                    "url": "/baby-care/baby-bedding/pr?sid=kyh,7j3&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Baby Gear",
+                                    "url": "/baby-care/strollers-activity-gear/pr?sid=kyh,5mt&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Baby Medical & Health Care",
+                                    "url": "/baby-care/baby-medical-health-care/pr?sid=kyh,g83&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Baby Proofing & Safety",
+                                    "url": "/baby-care/baby-proofing-safety/pr?sid=kyh,vxo&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Baby Cleaners & Detergents",
+                                    "url": "/baby-care/baby-cleaners-detergents/pr?sid=kyh,akv&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                }
+                            ],
+                            [
+                                {
+                                    "title": "Featured brands",
+                                    "url": "",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Miss & Chief",
+                                    "url": "/missandchief-store"
+                                },
+                                {
+                                    "title": "Barbie",
+                                    "url": "/toys/barbie~brand/pr?sid=mgl"
+                                },
+                                {
+                                    "title": "Disney",
+                                    "url": "/toys/disney~brand/pr?sid=mgl"
+                                },
+                                {
+                                    "title": "United Colors of Benetton",
+                                    "url": "/kids-clothing/pr?count=40&otracker=categorytree&p%5B%5D=facets.brand%255B%255D%3DUnited%2BColors%2Bof%2BBenetton&p%5B%5D=facets.brand%255B%255D%3DUnited%2BColors%2Bof%2BBenetton.&sid=2oq%2Fmpf"
+                                },
+                                {
+                                    "title": "The Children's Place",
+                                    "url": "/childrens-place-store"
+                                },
+                                {
+                                    "title": "US Polo",
+                                    "url": "/kids-clothing/pr?count=40&otracker=categorytree&otracker=nmenu_sub_Baby+and+Kids_0_Kids+Clothing&p%5B%5D=facets.brand%255B%255D%3DU%2BS%2BPolo%2BKids&p%5B%5D=facets.brand%255B%255D%3DU%2BS%2BPOLO%2BKIDS&p%5B%5D=facets.brand%255B%255D%3DU.S.%2BPolo%2BAssn&p%5B%5D=facets.brand%255B%255D%3DU.S.%2BPolo%2BAssn.&p%5B%5D=facets.brand%255B%255D%3DUs%2BPolo%2BKids&p%5B%5D=facets.brand%255B%255D%3DUS%2BPolo%2BKids&p%5B%5D=facets.brand%255B%255D%3DUS%2BPOLO%2BKIDS&sid=2oq%2Fmpf"
+                                },
+                                {
+                                    "title": "Flying Machine",
+                                    "url": "/kids-clothing/pr?count=40&otracker=categorytree&otracker=nmenu_sub_Baby+and+Kids_0_Kids+Clothing&p%5B%5D=facets.brand%255B%255D%3DFlying%2BMachine&sid=2oq%2Fmpf"
+                                },
+                                {
+                                    "title": "Crocs",
+                                    "url": "/footwear/kids-infant-footwear/crocs~brand/pr?sid=osp,mba"
+                                },
+                                {
+                                    "title": "Puma",
+                                    "url": "/footwear/kids-infant-footwear/puma~brand/pr?sid=osp,mba"
+                                },
+                                {
+                                    "title": "Funskool",
+                                    "url": "/toys/funskool~brand/pr?sid=mgl"
+                                },
+                                {
+                                    "title": "Lego",
+                                    "url": "/lego-store"
+                                },
+                                {
+                                    "title": "Luvlap",
+                                    "url": "/baby-care/luvlap~brand/pr?sid=kyh"
+                                },
+                                {
+                                    "title": "Mamy Poko",
+                                    "url": "/baby-care/~diapers-store/pr?sid=kyh%2Cfdp%2Cyvf&otracker=nmenu_sub_Baby+%26+Kids_0_Diapers&otracker=nmenu_sub_Baby+%26+Kids_0_Diapers&p%5B%5D=facets.fulfilled_by%255B%255D%3DFlipkart%2BAssured&p%5B%5D=facets.brand%255B%255D%3DMamyPoko"
+                                },
+                                {
+                                    "title": "Mee Mee",
+                                    "url": "/baby-care/pr?sid=kyh&otracker=categorytree&p%5B%5D=facets.brand%255B%255D%3DMe%2BMee&p%5B%5D=facets.brand%255B%255D%3DMEE%2B%2527N%2527%2BMyy&p%5B%5D=facets.brand%255B%255D%3DMeeMee"
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "home-kitchen": {
+                "title": "Home & Furniture",
+                "url": "#",
+                "importantLinks": [
+
+                ],
+                "tabs": [
+                    {
+                        "title": "Categories",
+                        "columns": [
+                            [
+                                {
+                                    "title": "Kitchen, Cookware & Serveware",
+                                    "url": "/kitchen-cookware-serveware/pr?sid=upp",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Pans",
+                                    "url": "/kitchen-cookware-serveware/cookware/pans/pr?sid=upp%2Ctnx%2C9fq"
+                                },
+                                {
+                                    "title": "Tawas",
+                                    "url": "/kitchen-cookware-serveware/cookware/tawas/pr?sid=upp%2Ctnx%2Cj12"
+                                },
+                                {
+                                    "title": "Pressure Cookers",
+                                    "url": "/kitchen-cookware-serveware/cookware/pressure-cookers/pr?sid=upp%2Ctnx%2Cgsl"
+                                },
+                                {
+                                    "title": "Kitchen tools",
+                                    "url": "/kitchen-cookware-serveware/kitchen-tools/pr?sid=upp%2Cldf"
+                                },
+                                {
+                                    "title": "Gas Stoves",
+                                    "url": "/kitchen-cookware-serveware/gas-stove-accessories/gas-stoves/pr?sid=upp%2Cd7m%2Cuhm"
+                                },
+                                {
+                                    "title": "Tableware & Dinnerware",
+                                    "url": "/kitchen-cookware-serveware/tableware-dinnerware/pr?sid=upp%2Ci7t",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Coffee Mugs",
+                                    "url": "/kitchen-cookware-serveware/tableware-dinnerware/mugs/pr?sid=upp%2Ci7t%2Cmsi"
+                                },
+                                {
+                                    "title": "Dinner Set",
+                                    "url": "/kitchen-cookware-serveware/tableware-dinnerware/dinner-sets/pr?sid=upp%2Ci7t%2Clha"
+                                },
+                                {
+                                    "title": "Barware",
+                                    "url": "/kitchen-cookware-serveware/barware/pr?sid=upp%2Cta2"
+                                },
+                                {
+                                    "title": "Kitchen Storage",
+                                    "url": "/kitchen-cookware-serveware/kitchen-storage-containers/pr?sid=upp%2C5ix",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Water Bottles",
+                                    "url": "/kitchen-cookware-serveware/lunch-boxes-bottles-and-flasks/water-bottles/pr?sid=upp%2Cf2k%2C0zz"
+                                },
+                                {
+                                    "title": "Lunch Boxes",
+                                    "url": "/kitchen-cookware-serveware/lunch-boxes-bottles-and-flasks/lunch-boxes/pr?sid=upp%2Cf2k%2Cu70"
+                                },
+                                {
+                                    "title": "Flasks",
+                                    "url": "/kitchen-cookware-serveware/lunch-boxes-bottles-and-flasks/flasks/pr?sid=upp%2Cf2k%2C7k9"
+                                },
+                                {
+                                    "title": "Casseroles",
+                                    "url": "/kitchen-cookware-serveware/tableware-dinnerware/casseroles/pr?sid=upp%2Ci7t%2Cgka"
+                                },
+                                {
+                                    "title": "Kitchen Containers",
+                                    "url": "/kitchen-cookware-serveware/kitchen-storage-containers/kitchen-containers/pr?sid=upp%2C5ix%2C01e"
+                                },
+                                {
+                                    "title": "Cleaning Supplies",
+                                    "url": "/home-cleaning-bathroom-accessories/cleaning-supplies/pr?sid=rja%2Cz2d",
+                                    "type": "heading"
+                                }
+                            ],
+                            [
+                                {
+                                    "title": "Furniture",
+                                    "url": "/furniture-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Kids Furniture",
+                                    "url": "/furniture/~kids-furniture-bestseller/pr?sid=wwe"
+                                },
+                                {
+                                    "title": "Beds",
+                                    "url": "/beds-store"
+                                },
+                                {
+                                    "title": "Sofas",
+                                    "url": "/sofas-store"
+                                },
+                                {
+                                    "title": "Dining tables & Sets",
+                                    "url": "/diningclp-store"
+                                },
+                                {
+                                    "title": "Mattresses",
+                                    "url": "/furniture/mattresses/bed-mattress/pr?sid=wwe,rg9,6t1&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Tables",
+                                    "url": "/furniture/tables/pr?sid=wwe,ki7"
+                                },
+                                {
+                                    "title": "Office Chairs",
+                                    "url": "/chairs-store"
+                                },
+                                {
+                                    "title": "Chairs",
+                                    "url": "/furniture/chairs/pr?sid=wwe,y7b"
+                                },
+                                {
+                                    "title": "Bean Bags",
+                                    "url": "/furniture/bean-bags/pr?sid=wwe,4n6"
+                                },
+                                {
+                                    "title": "Shoe Racks",
+                                    "url": "/shoerackclp-store"
+                                },
+                                {
+                                    "title": "TV Units & Cabinets",
+                                    "url": "/furniture/tv-units-cabinets/tv-entertainment-units/pr?sid=wwe,243,koe"
+                                },
+                                {
+                                    "title": "Wardrobes",
+                                    "url": "/furniture/wardrobes/wardrobes/pr?sid=wwe,fc3,dsw"
+                                },
+                                {
+                                    "title": "Drawers",
+                                    "url": "/furniture/drawers/pr?sid=wwe,xdf"
+                                },
+                                {
+                                    "title": "Sofa Beds",
+                                    "url": "/furniture/sofa-beds/sofa-beds/pr?sid=wwe,osg,itp"
+                                },
+                                {
+                                    "title": "Offers on Furniture",
+                                    "url": "/offers-list/furniturebestsellers?screen=dynamic&pk=themeViews%3DBBD18-BSF%3AAppView%2CBBD18-BSF%3ADesktopView~widgetType%3DdealCard~contentType%3Dneo&wid=2.dealCard.OMU",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Furniture Top Offers",
+                                    "url": "/furniture-offers-store",
+                                    "type": "heading"
+                                }
+                            ],
+                            [
+                                {
+                                    "title": "Furnishing",
+                                    "url": "/home-furnishing/pr?sid=jra&marketplace=FLIPKART",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Bedsheets",
+                                    "url": "/home-furnishing/bed-linen-blankets/bedsheets/pr?sid=jra,knw,qcw&marketplace=FLIPKART"
+                                },
+                                {
+                                    "title": "Curtains",
+                                    "url": "/home-furnishing/curtains-accessories/curtains/pr?sid=jra,sl5,2va&marketplace=FLIPKART"
+                                },
+                                {
+                                    "title": "Cushions & Pillows",
+                                    "url": "/home-furnishing/cushions-pillows/pr?sid=jra,kzv&marketplace=FLIPKART"
+                                },
+                                {
+                                    "title": "Blankets",
+                                    "url": "/home-furnishing/bed-linen-blankets/blankets/pr?sid=jra,knw,llw&marketplace=FLIPKART"
+                                },
+                                {
+                                    "title": "Bath Towels",
+                                    "url": "/home-furnishing/bath-linen/bath-towels/pr?sid=jra,jk3,wtg&marketplace=FLIPKART"
+                                },
+                                {
+                                    "title": "Kitchen & Table Linen",
+                                    "url": "/home-furnishing/kitchen-table-linen/pr?sid=jra,iwp&marketplace=FLIPKART"
+                                },
+                                {
+                                    "title": "Floor Coverings",
+                                    "url": "/home-furnishing/floor-coverings/pr?sid=jra,kwq&marketplace=FLIPKART"
+                                },
+                                {
+                                    "title": "Smart Home Automation",
+                                    "url": "/smart-home-automation-store?otracker=nmenu_sub_Appliances_0_Smart%20Home%20Automation",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Smart Security System",
+                                    "url": "/automation-robotics/surveillance-devices/security-cameras/pr?otracker=categorytree&p%5B%5D=facets.brand%255B%255D%3DCELESTECH&p%5B%5D=facets.brand%255B%255D%3DCP%2BPlus&p%5B%5D=facets.brand%255B%255D%3DCP-PLUS&p%5B%5D=facets.brand%255B%255D%3DCP-Plus&p%5B%5D=facets.brand%255B%255D%3DCp%2BPlus&p%5B%5D=facets.brand%255B%255D%3DCpplus&p%5B%5D=facets.brand%255B%255D%3DCrocon&p%5B%5D=facets.brand%255B%255D%3DFocus&p%5B%5D=facets.brand%255B%255D%3DGodrej&p%5B%5D=facets.brand%255B%255D%3DHIK%2BVISION&p%5B%5D=facets.brand%255B%255D%3DHIKVISION&p%5B%5D=facets.brand%255B%255D%3DHik%2BVision&p%5B%5D=facets.brand%255B%255D%3DHik%2Bvision&p%5B%5D=facets.brand%255B%255D%3DHikvision&p%5B%5D=facets.brand%255B%255D%3DHoneywell&p%5B%5D=facets.brand%255B%255D%3DSAMSUNG&p%5B%5D=facets.brand%255B%255D%3Dcp%2Bplus&p%5B%5D=facets.brand%255B%255D%3Dhoneywell&sid=igc%2Fj69%2Fagd"
+                                },
+                                {
+                                    "title": "Smart Door Locks",
+                                    "url": "/automation-robotics/smart-door-locks/pr?sid=igc,u0f&p%5B%5D=facets.filter_standard%255B%255D%3D1&facets.availability[]=Exclude+Out+of+Stock"
+                                },
+                                {
+                                    "title": "Tools & Hardware",
+                                    "url": "/home-improvement-tools-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Hand Tools",
+                                    "url": "/tools-hardware/tools/hand-tools/pr?sid=amz,qrp,ez4"
+                                },
+                                {
+                                    "title": "Power Tools",
+                                    "url": "/tools-hardware/tools/power-tools/pr?sid=amz,qrp,7yd"
+                                },
+                                {
+                                    "title": "Gardening Essentials",
+                                    "url": "/gardening-store"
+                                },
+                                {
+                                    "title": "Plant Seeds",
+                                    "url": "/tools-hardware/tools/gardening-tools/plant-seeds/pr?sid=amz,qrp,h0o,k2n&p[]=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock&otracker=categorytree"
+                                }
+                            ],
+                            [
+                                {
+                                    "title": "Home Decor",
+                                    "url": "/home-decor/pr?sid=arb&marketplace=FLIPKART",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Paintings",
+                                    "url": "/home-decor/paintings-posters/paintings/pr?sid=arb,bga,mmf"
+                                },
+                                {
+                                    "title": "Clocks",
+                                    "url": "/home-decor/clocks/pr?sid=arb,kjw&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Wall Shelves",
+                                    "url": "/home-decor/wall-decor-items/wall-shelves/pr?sid=arb,a77,vk7&marketplace=FLIPKART"
+                                },
+                                {
+                                    "title": "Stickers",
+                                    "url": "/home-decor/stickers-wallpapers/stickers/pr?sid=arb,yod,si0&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Showpieces & Figurines",
+                                    "url": "/home-decor/showpieces-decor-accents/showpieces-figurines/pr?sid=arb,uj2,z1t&marketplace=FLIPKART"
+                                },
+                                {
+                                    "title": "Home Lighting",
+                                    "url": "/home-lighting/pr?sid=jhg&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Bulbs",
+                                    "url": "/home-lighting/utility-lightling/bulbs/pr?sid=jhg,yqn,feb&marketplace=FLIPKART"
+                                },
+                                {
+                                    "title": "Wall Lamp",
+                                    "url": "/home-lighting/decor-lighting-accessories/wall-lamps/pr?sid=jhg,6w8,mbd"
+                                },
+                                {
+                                    "title": "Table Lamp",
+                                    "url": "/home-lighting/decor-lighting-accessories/table-lamps/pr?sid=jhg,6w8,gde"
+                                },
+                                {
+                                    "title": "Ceiling Lamp",
+                                    "url": "/home-lighting/decor-lighting-accessories/ceiling-lamps/pr?sid=jhg,6w8,rws"
+                                },
+                                {
+                                    "title": "Emergency Lights",
+                                    "url": "/home-lighting/utility-lightling/emergency-lights/pr?sid=jhg,yqn,m6m&marketplace=FLIPKART"
+                                },
+                                {
+                                    "title": "Festive Decor & Gifts",
+                                    "url": "/festive-decor-gifting/pr?sid=bro",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Pet Supplies",
+                                    "url": "/pets-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Pedigree",
+                                    "url": "/search?p[]=facets.brand%255B%255D%3DPedigree&sid=n2a&otracker=CLP_filters"
+                                },
+                                {
+                                    "title": "Whiskas",
+                                    "url": "/search?p[]=facets.brand%255B%255D%3DWhiskas&sid=n2a&otracker=CLP_filters"
+                                },
+                                {
+                                    "title": "Royal Canin",
+                                    "url": "/search?p[]=facets.brand%255B%255D%3DRoyal%2BCanin&sid=n2a&otracker=CLP_filters"
+                                }
+                            ],
+                            [
+                                {
+                                    "title": "Durability Certified Furniture",
+                                    "url": "/furnituredurable-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Featured",
+                                    "url": "",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Mugs Store",
+                                    "url": "/coffee-mugs-store"
+                                },
+                                {
+                                    "title": "Gardening Store",
+                                    "url": "/gardening-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Stainless Steel Store",
+                                    "url": "/stainless-steel-store"
+                                },
+                                {
+                                    "title": "Milton",
+                                    "url": "/search?p[]=facets.brand%255B%255D%3DMilton&sid=r4l&otracker=CLP_filters"
+                                },
+                                {
+                                    "title": "Bombay Dyeing",
+                                    "url": "/home-furnishing/bombay-dyeing~brand/pr?sid=vdm"
+                                },
+                                {
+                                    "title": "@home",
+                                    "url": "/search?p[]=facets.brand%255B%255D%3D%2540home%2Bby%2BNilkamal&sid=anx&otracker=CLP_filters"
+                                },
+                                {
+                                    "title": "Bosch",
+                                    "url": "/tools-hardware/bosch~brand/pr?sid=amz"
+                                },
+                                {
+                                    "title": "HomeTown",
+                                    "url": "/furniture/hometown~brand/pr?sid=anx"
+                                },
+                                {
+                                    "title": "Ajanta",
+                                    "url": "/home-decor/ajanta~brand/pr?sid=1m7"
+                                },
+                                {
+                                    "title": "Spaces by Welspun",
+                                    "url": "/home-furnishing/spaces-by-welspun~brand/pr?sid=vdm"
+                                },
+                                {
+                                    "title": "Prestige",
+                                    "url": "/household/prestige~brand/pr?sid=r4l"
+                                },
+                                {
+                                    "title": "Perfect Home Store",
+                                    "url": "/perfect-homes-store",
+                                    "type": "heading"
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "books-media": {
+                "title": "Sports, Books & More",
+                "url": "#",
+                "importantLinks": [
+
+                ],
+                "tabs": [
+                    {
+                        "title": "Categories",
+                        "columns": [
+                            [
+                                {
+                                    "title": "Sports",
+                                    "url": "/sports-gear-essentials-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Cricket",
+                                    "url": "/sports/cricket/pr?sid=abc,5lf&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Badminton",
+                                    "url": "/sports/badminton/pr?sid=abc,egs&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Cycling",
+                                    "url": "/sports/cycling/pr?sid=abc,ulv&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Football",
+                                    "url": "/sports/football/pr?sid=abc,gxg&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Skating",
+                                    "url": "/sports/skating/pr?sid=abc,mgq&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Camping & Hiking",
+                                    "url": "/sports/camping-hiking/pr?sid=abc,fvf&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Swimming",
+                                    "url": "/sports/swimming/pr?sid=abc,byq&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Exercise Fitness",
+                                    "url": "/exercise-fitness-essentials-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Cardio Equipment",
+                                    "url": "/offers-list/strength-cardio-equipment?screen=dynamic&pk=themeViews%3DSF-March-FR4%3AApp%2CSF-March-FR4%3ADesk~widgetType%3DdealCard~contentType%3Dneo&wid=2.dealCard.OMU"
+                                },
+                                {
+                                    "title": "Home Gyms",
+                                    "url": "/exercise-fitness/fitness-equipments/fitness-kits/pr?sid=qoc,amf,vh3&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Support",
+                                    "url": "/exercise-fitness/fitness-accessories/supports/pr?sid=qoc,acb,aa3&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Dumbbells",
+                                    "url": "/exercise-fitness/fitness-accessories/dumbbells/pr?sid=qoc,acb,zuc&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Ab Exercisers",
+                                    "url": "/exercise-fitness/fitness-equipments/ab-exercisers/pr?sid=qoc,amf,sma&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Shakers & Sippers",
+                                    "url": "/exercise-fitness/fitness-accessories/shakers-and-sippers/pr?sid=qoc,acb,qat&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Yoga Mat",
+                                    "url": "/exercise-fitness/yoga/yoga-mats/pr?sid=qoc,s1h,fco&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Gym Gloves",
+                                    "url": "/exercise-fitness/fitness-accessories/gym-gloves/pr?sid=qoc,acb,afr&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                }
+                            ],
+                            [
+                                {
+                                    "title": "Food Essentials",
+                                    "url": "/food-nutrition/~gourmet-foods-/pr?sid=7jv",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Nuts & Dry Fruits",
+                                    "url": "/food-nutrition/nuts-dry-fruits-combos/~gourmet-foods-/pr?sid=7jv,30b&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Tea, Coffee and Beverages",
+                                    "url": "/food-nutrition/beverages/~gourmet-foods-/pr?sid=7jv,ldw&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Chocolates",
+                                    "url": "/food-nutrition/confectioneries-sweets/chocolates/~gourmet-foods-/pr?sid=7jv,iyp,s4n&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Snacks Corner",
+                                    "url": "/food-nutrition/snacks-nibbles/~gourmet-foods-/pr?sid=7jv,x9l&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Gifting Combos",
+                                    "url": "/food-nutrition/food-nutrition-combo/~gourmet-foods-/pr?sid=7jv,jid&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Sweets Store",
+                                    "url": "/food-nutrition/confectioneries-sweets/sweets-mithai/~gourmet-foods-/pr?sid=7jv,iyp,2e1&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Jams, Spreads and Honey",
+                                    "url": "/food-nutrition/jams-spreads-honey/~gourmet-foods-/pr?sid=7jv,kzq&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Breakfast Items",
+                                    "url": "/food-nutrition/breakfast-mixes-cereals/~gourmet-foods-/pr?sid=7jv,vx6&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Health & Nutrition",
+                                    "url": "",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "All Supplements",
+                                    "url": "/health-and-supplements-clp-store"
+                                },
+                                {
+                                    "title": "Protein Supplements",
+                                    "url": "/food-nutrition/health-nutrition/protein-supplements/pr?sid=7jv,owt,d9u&otracker=categorytree&otracker=nmenu_sub_Sports%2C%20Books%20%26%20More_0_Protein%20Supplements"
+                                },
+                                {
+                                    "title": "Vitamin Supplements",
+                                    "url": "/food-nutrition/health-nutrition/vitamin-supplements/pr?sid=7jv,owt,n2j&otracker=categorytree&otracker=nmenu_sub_Sports%2C%20Books%20%26%20More_0_Vitamin%20Supplements"
+                                },
+                                {
+                                    "title": "Health Drinks",
+                                    "url": "/food-nutrition/health-nutrition/health-and-energy-drinks/pr?sid=7jv,owt,a39&otracker=categorytree&otracker=nmenu_sub_Sports%2C%20Books%20%26%20More_0_Health%20%26%20Energy%20Drinks"
+                                },
+                                {
+                                    "title": "Ayurvedic Supplements",
+                                    "url": "/food-nutrition/health-nutrition/vitamin-supplements/pr?sid=7jv%2Cowt%2Cn2j&otracker=categorytree&otracker=nmenu_sub_Sports%2C+Books+%26+More_0_Vitamin+Supplements&p%5B%5D=facets.serviceability%5B%5D%3Dtrue&p%5B%5D=facets.type%255B%255D%3DAyurvedic%2BSupplements"
+                                }
+                            ],
+                            [
+                                {
+                                    "title": "Books",
+                                    "url": "/books-store",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Entrance Exams",
+                                    "url": "/the-exam-store"
+                                },
+                                {
+                                    "title": "Academics",
+                                    "url": "/the-education-store"
+                                },
+                                {
+                                    "title": "Literature & Fiction",
+                                    "url": "/theliterature-fiction-store"
+                                },
+                                {
+                                    "title": "Non Fiction",
+                                    "url": "/the-non-fiction-store"
+                                },
+                                {
+                                    "title": "Young Readers",
+                                    "url": "/the-childrenandteens-store"
+                                },
+                                {
+                                    "title": "Self-Help",
+                                    "url": "/books/selfhelp-books/pr?sid=bks,5uw&marketplace=FLIPKART"
+                                },
+                                {
+                                    "title": "Business",
+                                    "url": "/books/economics-business-and-management-books/pr?sid=bks,xjk&marketplace=FLIPKART"
+                                },
+                                {
+                                    "title": "Preorders",
+                                    "url": "/books/~pre-order/pr?sid=bks"
+                                },
+                                {
+                                    "title": "Indian Languages",
+                                    "url": "/language-store"
+                                },
+                                {
+                                    "title": "Stationery",
+                                    "url": "",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Pens",
+                                    "url": "/pens-category-store?otracker=nmenu_sub_Sports%2C%20Books%20%26%20More_0_Pens"
+                                },
+                                {
+                                    "title": "Dairies",
+                                    "url": "/pens-stationery/office-supplies/diaries/pr?sid=dgv,tkw,mwh&otracker=product_breadCrumbs_Diaries"
+                                },
+                                {
+                                    "title": "Card Holders",
+                                    "url": "/pens-stationery/office-supplies/card-holders/pr?sid=dgv,tkw,chd&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Desk Organiszers",
+                                    "url": "/pens-stationery/office-supplies/desk-organizers/pr?sid=dgv,tkw,hlr"
+                                },
+                                {
+                                    "title": "Calculators",
+                                    "url": "/calculators-category-store?otracker=nmenu_sub_Sports%2C%20Books%20%26%20More_0_Calculators%20"
+                                },
+                                {
+                                    "title": "Key Chains",
+                                    "url": "/pens-stationery/office-supplies/key-chains/pr?sid=dgv,tkw,amn&otracker=nmenu_sub_Sports%2C%20Books%20%26%20More_0_Key%20Chains"
+                                }
+                            ],
+                            [
+                                {
+                                    "title": "Auto Accessories",
+                                    "url": "",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Car & Bike Accessories",
+                                    "url": "/bike-car-accessories-store?otracker=nmenu_sub_Sports%2C%20Books%20%26%20More_0_Car%20%26%20Bike%20Accessories"
+                                },
+                                {
+                                    "title": "Helmets & Riding Gears",
+                                    "url": "/automotive/accessories-spare-parts/helmets-riding-gear/pr?p%5B%5D=facets.availability%255B%255D%3DExclude%2BOut%2Bof%2BStock&sid=0hx%2Cbwd%2Cbgt&otracker=nmenu_sub_Sports%2C%20Books%20%26%20More_0_Helmets%20%26%20Riding%20Gear"
+                                },
+                                {
+                                    "title": "Car Electronics & Appliances",
+                                    "url": "/automotive/car-bike-accessories/car-electronics-accessories/pr?sid=0hx%2Cbwd%2Ctko&otracker=nmenu_sub_Sports%2C%20Books%20%26%20More_0_Car%20Electronics%20%26%20Appliances%20"
+                                },
+                                {
+                                    "title": "Industrial & Scientific tools",
+                                    "url": "",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Industrial Measurement Devices",
+                                    "url": "/industrial-scientific-supplies/industrial-measurement-devices/pr?sid=gsx,oe8&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Industrial Testing Devices",
+                                    "url": "/industrial-scientific-supplies/industrial-testing-devices/pr?sid=gsx,gkc&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Lab & Scientific Products",
+                                    "url": "/industrial-scientific-supplies/lab-scientific-products/pr?sid=gsx,l9d&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Packaging & Shipping Products",
+                                    "url": "/industrial-scientific-supplies/packaging-shipping-products/pr?sid=gsx,bad&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Safety Products",
+                                    "url": "/industrial-scientific-supplies/safety-products/pr?sid=gsx,bfk&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Medical Supplies",
+                                    "url": "",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Pregnancy and Fertility Kits",
+                                    "url": "/sexual-wellness/testing-kits/pr?sid=t06,7vg,1dj&p[]=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree"
+                                },
+                                {
+                                    "title": "Hot Water Bag",
+                                    "url": "/beauty-and-personal-care/health-care/medicines-treatment/pr?sid=t06%2Cnyl%2Cggb&p%5B%5D=facets.serviceability%5B%5D%3Dtrue&otracker=categorytree&p%5B%5D=facets.brand%255B%255D%3DCasa&p%5B%5D=facets.brand%255B%255D%3DCASA&p%5B%5D=facets.brand%255B%255D%3DTULIP&p%5B%5D=facets.brand%255B%255D%3DTulip&p%5B%5D=facets.brand%255B%255D%3Dcreto&p%5B%5D=facets.brand%255B%255D%3DCRETO&p%5B%5D=facets.brand%255B%255D%3DAlex%2527s&p%5B%5D=facets.brand%255B%255D%3DRecombigen&p%5B%5D=facets.brand%255B%255D%3Dxtraplus&p%5B%5D=facets.brand%255B%255D%3DKetsaal&p%5B%5D=facets.brand%255B%255D%3DThermocare&p%5B%5D=facets.brand%255B%255D%3DRoyal&p%5B%5D=facets.brand%255B%255D%3DARYSHAA&p%5B%5D=facets.brand%255B%255D%3DAryshaa&p%5B%5D=facets.brand%255B%255D%3DTuelip&p%5B%5D=facets.brand%255B%255D%3DHealthIQ&p%5B%5D=facets.brand%255B%255D%3DGentle%2BE%2BKart&p%5B%5D=facets.brand%255B%255D%3DOneRetail"
+                                }
+                            ],
+                            [
+                                {
+                                    "title": "Music",
+                                    "url": "",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Musical Instruments",
+                                    "url": "/musical-instruments-store"
+                                },
+                                {
+                                    "title": "Music",
+                                    "url": "/music/pr?sid=p2c&marketplace=FLIPKART"
+                                },
+                                {
+                                    "title": "Movies & Tv shows",
+                                    "url": "/movies-store"
+                                },
+                                {
+                                    "title": "Gaming",
+                                    "url": "",
+                                    "type": "heading"
+                                },
+                                {
+                                    "title": "Gaming Consoles",
+                                    "url": "/gaming/gaming-consoles/pr?sid=4rr,x1m&otracker=nmenu_sub_Sports%2C%20Books%20%26%20More_0_Gaming%20Consoles"
+                                },
+                                {
+                                    "title": "Gaming Accessoriies",
+                                    "url": "/gaming/gaming-accessories/pr?sid=4rr,km5&otracker=categorytree&otracker=nmenu_sub_Sports%2C%20Books%20%26%20More_0_Gaming%20Accessories"
+                                },
+                                {
+                                    "title": "PS4 Games",
+                                    "url": "/games/ps4/pr?p%5B%5D=sort%3Dpopularity&sid=4rr%2Ctg9%2Cweu&pincode=560068&filterNone=true&otracker=nmenu_sub_Sports%2C%20Books%20%26%20More_0_PS4%20Games"
+                                },
+                                {
+                                    "title": "Smart Glasses (VR)",
+                                    "url": "/wearable-smart-devices/smart-glasses/pr?sid=ajy,tcy&otracker=nmenu_sub_Sports%2C%20Books%20%26%20More_0_Smart%20Glasses(VR)"
+                                },
+                                {
+                                    "title": "Grocery (Only in Select Cities)",
+                                    "url": "/grocery-supermart-store?marketplace=GROCERY",
+                                    "type": "heading"
+                                }
+                            ]
+                        ]
+                    }
+                ]
+            },
+            "offer-zone": {
+                "title": "Offer Zone",
+                "class": "link-offer-zone",
+                "url": "/offers-store"
+            }
+        }
+    }
+
+

@@ -1,0 +1,24 @@
+.carousel {
+  width: 98%;
+  margin-left: 15px;
+  
+  .carousel-data {
+    margin-top: 15px;
+    margin-left: 18px;
+
+    img {
+      width: 98%;
+    }
+  }
+}
+
+.fa-chevron-right, .fa-chevron-left {
+    padding: 45px 15px;
+    background-color: white;
+    z-index: 500;
+    box-shadow: 1px 2px 10px -1px rgba(0, 0, 0, .3);
+    cursor: pointer;
+    color: black;
+    font-size: 24px;
+}
+

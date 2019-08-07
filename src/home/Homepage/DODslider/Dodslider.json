@@ -1,0 +1,59 @@
+[
+  {
+    "id":"1",
+    "title":"Mobile Devices",
+    "src":"./mobiles/mob1.jpeg",
+    "from": "12,999",
+    "brands": "Apple, Mi, & more",
+    "to": "Mobile"  
+  },
+  {
+    "id":"2",
+    "title":"Men's footwear",
+    "src":"./Dealoftheday/dod2.jpeg",
+    "from": "199 + extra 5%",
+    "brands": "campus, sparx, & more" ,
+    "to": "DealsOfTheDay" 
+  },
+  {
+    "id":"3",
+    "title":"Bags",
+    "src":"./Dealoftheday/dod8.jpeg",
+    "from": "2000 + extra 5% off",
+    "brands": "skybags,american-tourist & more",
+    "to": "DealsOfTheDay"  
+  },
+  {
+    "id":"4",
+    "title":"Data Storage Devices",
+    "src":"./Dealoftheday/dod5.jpeg",
+    "from": "199 Extra 50% off",
+    "brands": "samsung, sandisk, & more" ,
+    "to": "DealsOfTheDay" 
+  },
+  {
+    "id":"5",
+    "title":"Pens, Key-chains",
+    "src":"./Dealoftheday/dod3.jpeg",
+    "from": "99",
+    "brands": "Parker, Cello, & more" ,
+    "to": "DealsOfTheDay" 
+  },
+  {
+    "id":"6",
+    "title":"Boys/Girl's Watches",
+    "src":"./Dealoftheday/dod6.jpeg",
+    "from": "99",
+    "brands": "lowest price, & more" ,
+    "to": "DealsOfTheDay" 
+  },
+  {
+    "id":"7",
+    "title":"headfones and speakers",
+    "src":"./Dealoftheday/dod4.jpeg",
+    "from": "249",
+    "brands": "JBL, SONY, & more"  ,
+    "to": "DealsOfTheDay"
+  }
+  
+]

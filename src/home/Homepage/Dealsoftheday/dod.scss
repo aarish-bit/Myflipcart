@@ -1,0 +1,45 @@
+.deals-of-the-day {
+	text-align: center;
+  margin-top: 10px;
+  background-color: white;
+  width: 98%;
+  margin-left: 12px;
+
+  h4{padding: 25px 25px;}
+}
+
+.deals-content {
+  display: flex;
+  flex-flow: wrap;
+
+  .deals-data {
+    min-width: 250px;
+    max-width: 300px;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 25px;
+
+    img {
+      width: 90px;
+      height: 135px;
+      margin-top: 15px;
+      &:hover {
+        transform: scale(1.05)
+      }
+    }
+    .data-title {
+      font-size: 15px;
+      margin-top: 20px;
+    }
+  
+    .price {
+      font-size: 15px;
+      color: green;
+    }
+  
+    .brands {
+      font-size: 14px;
+      color: #8A8A8A;
+    }
+  }
+}

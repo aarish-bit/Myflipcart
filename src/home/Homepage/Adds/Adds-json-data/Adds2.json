@@ -1,0 +1,17 @@
+[
+    {
+        "id":"1",
+        "src":"./adds/add5.png",
+        "to": "https://www.2gud.com/?param=12&ref=flipkart&otracker=hp_banner_1_8.bannerX3.BANNER_8D77CWCMB5KT&fm=neo%2Fmerchandising&iid=M_557b7392-9132-4ed2-a24f-5167c61d8fb3_8.8D77CWCMB5KT&ppt=hp&ppn=hp"  
+    },
+    {
+        "id":"2",
+        "src":"./adds/add6.png",
+        "to": "https://www.2gud.com/refurbished-mobiles-store?ref=flipkart&otracker=hp_banner_2_8.bannerX3.BANNER_QBXZD4D2R82M&fm=neo%2Fmerchandising&iid=M_557b7392-9132-4ed2-a24f-5167c61d8fb3_8.QBXZD4D2R82M&ppt=hp&ppn=hp"  
+    },
+    {
+        "id":"3",
+        "src":"./adds/add7.png",
+        "to": "https://www.2gud.com/refurbished-accessories-store?ref=flipkart&otracker=hp_banner_3_8.bannerX3.BANNER_FIDZKMY12HCP&fm=neo%2Fmerchandising&iid=M_557b7392-9132-4ed2-a24f-5167c61d8fb3_8.FIDZKMY12HCP&ppt=hp&ppn=hp"  
+    }
+]
