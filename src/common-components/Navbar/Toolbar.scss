@@ -5,6 +5,10 @@
    align-items: unset; 
    justify-content: inherit; 
    padding: 0;
+   position: fixed;
+   top: 0;
+   z-index: 1000;
+   width: 100%;
    li{
      display: flex;
    }
@@ -161,7 +165,7 @@
   transform: rotate(180deg)
 }
 
-.cart{
+.cart a{
   margin-top: 17px;
   color: white;
   font-size: 18px;

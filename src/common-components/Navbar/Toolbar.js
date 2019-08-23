@@ -55,7 +55,7 @@ const Toolbar = props => (
         </div>
       </NavItem>
       <NavItem className="cart">
-        <i className="fas fa-shopping-cart"></i><strong>Cart</strong>
+        <NavLink to='./cart'><i className="fas fa-shopping-cart"></i><strong>Cart</strong></NavLink>
       </NavItem>
     </Navbar>
   </header>

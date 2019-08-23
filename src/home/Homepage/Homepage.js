@@ -3,7 +3,7 @@ import './homepage.scss'
 import { NavLink } from 'react-router-dom'
 import Carousel from './Carousel/Carousel';
 import Timer from './Timer';
-import GadjetAdd from './Dealsoftheday/GadgetAdd';
+import GadjetAdd from './../Dealsoftheday/GadgetAdd';
 import DODSlider from './DODslider/DODSlider';
 import Adds1 from './Adds/Adds/Adds1';
 import Adds2 from './Adds/Adds/Adds2';

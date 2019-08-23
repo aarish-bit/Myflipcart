@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import './../homepage.scss'
+import './../Homepage/homepage.scss'
 
 class GadjetAdd extends Component {
     render() {

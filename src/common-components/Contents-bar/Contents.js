@@ -12,9 +12,9 @@ class Contents extends Component {
                 {_.map(Data.navData, (obj, key) => {
                     return (
                         <div className="dropdown" key={obj.title}>
-                            <button className="dropbtn"><strong>{obj.title}</strong>
+                            <div className="dropbtn"><strong>{obj.title}</strong>
                                 <i className="fas fa-chevron-down"></i>
-                            </button>
+                            </div>
 
                             {obj.tabs && obj.tabs.map((catelog, key) => {
                                 // console.log(catelog.columns, 'obj2')

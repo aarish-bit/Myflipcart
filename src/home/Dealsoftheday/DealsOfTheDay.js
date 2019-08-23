@@ -1,6 +1,6 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
-import Timer from '../Timer';
+import Timer from './../Homepage/Timer';
 import './dod.scss'
 import dod from './dod.json'
 
