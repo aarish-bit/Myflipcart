@@ -1,0 +1,129 @@
+.MobileNewLaunches {
+  text-align: center;
+  margin-top: 10px;
+  background-color: white;
+  width: 98%;
+  margin-left: 12px;
+
+  h4 {
+    padding: 25px 25px;
+  }
+}
+
+.mobile-content {
+  display: flex;
+  flex-flow: wrap;
+
+  .mobile-data {
+    min-width: 250px;
+    max-width: 300px;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 25px;
+
+    img {
+      width: 90px;
+      height: 185px;
+      margin-top: 15px;
+      margin-left: 0px;
+      &:hover {
+        transform: scale(1.05)
+      }
+    }
+
+    .data-title {
+      font-size: 15px;
+      margin-top: 20px;
+    }
+
+    .price {
+      color: #8A8A8A;
+      font-size: 14px;
+    }
+
+    .disc {
+      color: green;
+      font-size: 16px;
+    }
+  }
+}
+
+.mobile-menu{
+  display: flex;
+}
+
+.mobilefilter{
+  background-color: white;
+  width: 250px;
+  margin-left: 15px;
+  padding-top:10px;  
+}
+
+.mobile-list {
+  background-color: white;
+  margin-left: 15px;
+  width: 1000px;
+  padding-top: 20px;
+  
+  h5{
+    margin-left: 25px;
+  }
+  .mobile-sort{
+    display: flex;
+    border-bottom: 1px solid rgb(226, 212, 212);    
+    .sort{
+      margin-left: 20px;
+      font-size: 14px;
+      margin-top: 3px;
+    }
+  }
+}
+
+.mobile-list-content {
+  display: flex;
+  flex-direction: column;
+
+  .mobile-list-data {
+    width: 93%;
+    height: 295px;
+    overflow-y: hidden;
+    text-align: left;
+    margin-left: 35px;
+    margin-top: 25px;
+    display: flex;
+    &:hover{
+     box-shadow:  0 10px 12px 0 rgba(0,0,0,0.2)           
+    }
+   
+    img {
+      width: 100px;
+      height: 215px;
+      margin-top: 15px;
+      margin-left: 38px;
+    }
+
+    .mobile-discript{
+      margin-left: 30px;
+    }
+
+    .data-title {
+      font-size: 22px;
+      margin-left: 25px;
+      font-weight: 600;
+      margin-top: 10px;
+    }
+
+    .price {
+      color: black;
+      font-size: 24px;
+      margin-left: 25px;
+    }
+
+    .price-detail {
+      color: black;
+      margin-left: 25px;
+      margin-top: 20px;
+    }
+  
+  }
+}
